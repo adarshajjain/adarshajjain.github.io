@@ -1,0 +1,22 @@
+# Informations
+name: Adarsh Jain
+nickname: Adarsh Jain
+
+# Greetings & background
+# greeting: "👋 I am"
+image: images/author/photo.webp
+
+# Footer contact
+contactInfo:
+  email: timothe@chauvet.cloud
+  linkedin: timothechauvet
+  github: timothechauvet
+
+# Blinking text
+summary:
+  - ❤️ DevOps
+  - ❤️ Cloud
+  - ❤️ Open Source Software
+  - ❤️ Electronic music
+  - ❤️ Kubernetes
+  - ❤️ Design
