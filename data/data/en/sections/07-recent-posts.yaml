@@ -1,7 +1,0 @@
-# section information
-section:
-  name: Blog
-  id: recent-posts
-  enable: false
-  weight: 7
-  showOnNavbar: false

@@ -1,5 +1,5 @@
 module github.com/adarshajjain/adarshajjain.github.io
 
-go 1.24.6
+go 1.23.4
 
-require github.com/hugo-toha/toha/v4 v4.9.0 // indirect
+require github.com/hugo-toha/toha/v4 v4.8.1-0.20250414164834-722336146405 // indirect

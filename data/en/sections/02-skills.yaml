@@ -1,0 +1,42 @@
+# Section informations
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: false
+  hideTitle: false
+
+# Skills
+skills:
+- name: Green Hydrogen Technology
+  logo: /images/skills/hydrogen.png
+  summary: "Currently pursuing PhD research on materials development for technical hydrogen generation through improved gas diffusion layers. Extensive experience in alkaline water electrolysis and hydrogen production optimization at Max Planck Institute for Chemical Energy Conversion."
+
+- name: Chemical Engineering
+  logo: /images/skills/chemical.png
+  summary: "Strong foundation in chemical engineering with Master's degree from Otto-von-Guericke-Universität Magdeburg. Specialized in process technology, electrochemical processes, and production processes with 3+ years of research experience."
+
+- name: Fuel Cell Technology
+  logo: /images/skills/fuel-cell.png
+  summary: "Expertise in fuel cell systems and technology developed through academic research and practical applications. Focused on electrochemical processes and energy conversion systems for sustainable energy solutions."
+
+- name: Computational Fluid Dynamics
+  logo: /images/skills/cfd.png
+  summary: "Proficient in CFD simulation and analysis, including flow channel design and two-phase flow behavior studies. Applied CFD for micro fluidic experiments and porous transport layer analysis during water electrolysis."
+
+- name: Process Design & Development
+  logo: /images/skills/process.png
+  summary: "Experienced in developing process chains for thin film formation and materials development. Skilled in project commissioning, production processes, and experimental design for technical applications."
+
+- name: Materials Characterization
+  logo: /images/skills/materials.png
+  summary: "PhD focus on materials characterization with expertise in X-ray micro computed tomography, image reconstruction, and structural analysis. Specialized in developing materials for energy applications and hydrogen generation."
+
+- name: MATLAB & Analytical Tools
+  logo: /images/skills/matlab.png
+  summary: "Advanced user of MATLAB for data analysis, modeling, and simulation. Strong analytical skills applied to experimental data processing, thermodynamic modeling, and research analysis across multiple projects."
+
+- name: Research & Development
+  logo: /images/skills/research.png
+  summary: "3+ years of research experience at renowned institutions including Max Planck Institute. Published researcher with expertise in experimental design, literature review, and scientific methodology in energy and materials science."

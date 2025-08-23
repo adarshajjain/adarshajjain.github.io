@@ -1,0 +1,35 @@
+# Section informations
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: false
+
+# Professional informations
+designation: PhD Student in Mechanical and Process Engineering
+summary: |
+        Currently, I am pursuing a PhD in the Chair of Particle Science and Technology, led by Prof. Doris Segets, focuses on hydrogen generation that is part of project H2Giga and subproject prometH2eus
+
+
+socialLinks:
+- name: Email
+  icon: fas fa-envelope
+  url: contact@adarshjain.de
+- name: LinkedIn
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/adarshjainaj/?locale=en_US
+- name: ResearchGate
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Adarsh-Jain-18
+- name: ORCiD
+  icon: fab fa-orcid
+  url: https://orcid.org/0009-0001-6199-8340
+
+# badges:
+# - type: certification
+#   name: "A Proof-of-Principle Demonstration: Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
+#   url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202421352
+# - type: certification
+#   name: "From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
+#   url: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cctc.202301461

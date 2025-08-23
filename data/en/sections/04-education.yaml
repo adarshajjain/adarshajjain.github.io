@@ -1,0 +1,88 @@
+# Section informations
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  hideTitle: false
+
+# Education experiences
+degrees:
+- name: Ph.D in Characterisation of Materials
+  icon: fa-microscope
+  timeframe: Jan 2022 - Dec 2025
+  institution:
+    name: Duisburg-Essen University
+    url: https://www.uni-due.de/empi/pst/jain.php
+    logo: /images/education/ude-white.webp
+    darkLogo: /images/education/ude-dark.webp
+  takenCourses: 
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Green Hydrogen
+    - name: Chemical Engineering
+    - name: Production Processes
+    - name: Process Design
+    - name: Analytical Skills
+    - name: Project Commissioning
+  publications:
+  - title: "[Advanced Functional Materials, jan. 2025] Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
+    url: https://doi.org/10.1002/adfm.202421352
+  - title: "[ChemCatChem, jan. 2024] 
+From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
+    url: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cctc.202301461
+
+- name: Postgraduation Training Program in Chemical Energy Conversion
+  icon: fa-atom
+  timeframe: Jan 2022 - Dec 2025
+  institution:
+    name: Max Planck Institute
+    url: https://www.mpi-magdeburg.mpg.de/
+    logo: /images/education/mpi-white.webp
+    darkLogo: /images/education/mpi-dark.webp
+  takenCourses: 
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Chemical Engineering
+    - name: Production Processes
+    - name: Analytical Skills
+    - name: Project Commissioning
+
+- name: Master's in Chemical and Energy Engineering
+  icon: fa-graduation-cap
+  timeframe: Oct 2018 - Oct 2021
+  institution:
+    name: Otto-von-Guericke Magdeburg University
+    url: https://www.ovgu.de/
+    logo: /images/education/ovgu-white.webp
+    darkLogo: /images/education/ovgu-dark.webp
+  takenCourses: 
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Process Technology (Chemical, Electrochemical, Mechanical and Thermal)
+    - name: Computational Fluid Dynamics 
+    - name: Fuel Cell Technology 
+    - name: Water Electrolysis 
+    - name: Renewable Energy Sources
+
+- name: Bachelor of Engineering (B.E.), Mechanical Engineering
+  icon: fa-graduation-cap
+  timeframe: 2013 - 2017
+  institution:
+    name: Visvesvaraya Technological University 
+    url: https://vtu.ac.in/
+    logo: /images/education/vtu-white.webp
+    darkLogo: /images/education/vtu-dark.webp
+  takenCourses: 
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Energy engineering
+    - name: Fluid mechanics 
+    - name: Power plant engineering 
+    - name: Thermodynamics
+    - name: Non-conventional Energy Sources
