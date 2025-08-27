@@ -13,7 +13,8 @@ experiences:
     name: Particle Science and Technology
     location: Duisburg, Germany
     url: https://www.uni-due.de/ivg/pst/
-    logo: /images/education/ivg.webp
+    logo: /images/education/empi-white.webp
+    darkLogo: /images/education/empi-dark.webp
     overview: ""
   positions:
   - designation: Scientific Employee

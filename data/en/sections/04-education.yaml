@@ -27,12 +27,6 @@ degrees:
     - name: Process Design
     - name: Analytical Skills
     - name: Project Commissioning
-  publications:
-  - title: "[Advanced Functional Materials, jan. 2025] Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
-    url: https://doi.org/10.1002/adfm.202421352
-  - title: "[ChemCatChem, jan. 2024] 
-From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
-    url: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cctc.202301461
 
 - name: Postgraduation Training Program in Chemical Energy Conversion
   icon: fa-atom
