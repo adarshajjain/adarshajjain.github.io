@@ -11,24 +11,20 @@ section:
 skills:
 - name: Electrochemical Process Engineering
   logo: /images/skills/chemical.png
-  summary: "Strong foundation in chemical engineering with Master's degree from Otto-von-Guericke-Universität Magdeburg. Specialized in process technology, electrochemical processes, and production processes with 3+ years of research experience."
+  summary: "Experienced in water electrolysis and fuel cell systems, with focus on electrode design and performance evaluation. Extensive understanding of flow and transport dynamics at three-phase contact lines (solid-liquid-gas). Applied electrochemical insights to optimise processes for green hydrogen generation."
 
 - name: R&D and Innovation
   logo: /images/skills/research.png
-  summary: "3+ years of research experience at Duisburg-Essen University. Published researcher with expertise in experimental design, literature review, and scientific methodology in energy and materials science."
+  summary: "3+ years of research experience with 5+ peer-reviewed scientific publications in energy and materials science. Proven track record in advancing laboratory-scale concepts to industrially scalable processes. Active in collaborative research networks, contributing to innovation in hydrogen technologies."
 
 - name: Process Design and Development
   logo: /images/skills/process.png
-  summary: "Experienced in developing process chains for thin film formation and materials development. Skilled in project commissioning, production processes, and experimental design for technical applications."
+  summary: "Experienced in developing process chains, from ink formulation to performance testing. Skilled in project commissioning, production processes, and experimental design for technical applications. Hands-on expertise in ink processing, ultrasonic spray deposition, airbrush coating, and doctor blade coating techniques."
 
 - name: Materials Characterisation
   logo: /images/skills/materials.png
-  summary: "PhD focus on materials characterisation with expertise in X-ray micro computed tomography, image reconstruction, and structural analysis. Specialised in developing materials for energy applications and hydrogen generation."
+  summary: "Skilled in colloidal formulation analysis, wetting behavior studies, and Hansen Solubility Parameters. Experienced with Scanning Electron Microscopy (SEM), Atomic Force Microscopy (AFM), and contact angle measurements for surface and structural insights. Focused on linking materials properties with performance in electrolysers."
 
 - name: Data and Image Analysis
   logo: /images/skills/matlab.png
-  summary: "Advanced user of MATLAB for data analysis, modeling, and simulation. Strong analytical skills applied to experimental data processing, thermodynamic modeling, and research analysis across multiple projects."
-
-- name: Computational Fluid Dynamics
-  logo: /images/skills/cfd.png
-  summary: "Proficient in CFD simulation and analysis, including flow channel design and two-phase flow behavior studies. Applied CFD for micro fluidic experiments and porous transport layer analysis during water electrolysis."
+  summary: "Advanced in MATLAB for automated image processing, feature extraction, and data modeling. Extensive experience handling AFM images, X-ray Micro-Computed Tomography (µCT) reconstructions, and multi-scale datasets. Fluent in ImageJ and OriginPro for scientific visualization, statistical evaluation, and analysis."
