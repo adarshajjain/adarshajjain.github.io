@@ -19,7 +19,7 @@ skills:
 
 - name: Process Design and Development
   logo: /images/skills/process.png
-  summary: "Experienced in developing process chains, from ink formulation to performance testing. Skilled in project commissioning, production processes, and experimental design for technical applications. Hands-on expertise in ink processing, ultrasonic spray deposition, airbrush coating, and doctor blade coating techniques."
+  summary: "Experienced in developing process chains, from ink formulation to performance testing. Hands-on expertise in ink processing, ultrasonic spray deposition, airbrush coating, and doctor blade coating techniques. Skilled in project commissioning, production processes, and experimental design for technical applications."
 
 - name: Materials Characterisation
   logo: /images/skills/materials.png
@@ -27,4 +27,4 @@ skills:
 
 - name: Data and Image Analysis
   logo: /images/skills/matlab.png
-  summary: "Advanced in MATLAB for automated image processing, feature extraction, and data modeling. Extensive experience handling AFM images, X-ray Micro-Computed Tomography (µCT) reconstructions, and multi-scale datasets. Fluent in ImageJ and OriginPro for scientific visualization, statistical evaluation, and analysis."
+  summary: "Advanced in MATLAB for automated image processing, feature extraction, and data modeling. Extensive experience handling AFM images, X-ray Micro-Computed Tomography (µCT) reconstructions, and multi-scale datasets. Fluent in ImageJ and OriginPro for scientific visualisation, statistical evaluation, and analysis."

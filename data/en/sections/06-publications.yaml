@@ -81,7 +81,7 @@ publications:
   - name: Prof. Dr. Doris Segets
     url: https://orcid.org/0000-0003-3102-2934
   paper:
-    summary: "Study that desmonstrates MSDQ framework quantifies cobalt oxide anode surfaces using AFM, linking roughness, area, and homogeneity to OER activity, enabling precise characterization, benchmarking, and manufacturing optimization of electrocatalytic anodes."
+    summary: "Study that desmonstrates MSDQ framework quantifies cobalt oxide anode surfaces using AFM, linking roughness, area, and homogeneity to OER activity, enabling precise characterisation, benchmarking, and manufacturing optimisation of electrocatalytic anodes."
     url: https://doi.org/10.1002/cctc.202301461
   categories: ["electrochemistry", "image-processing"]
   tags: ["Oxygen Evolution Reaction", "Catalysis", "Materials Science"]
@@ -201,7 +201,7 @@ publications:
     - name: Viktor Čolić
       url: https://orcid.org/0000-0003-1118-5592
   paper:
-    summary: "Defects, oxygen groups, and alkali-metal cations modulate two-electron ORR on graphite and glassy carbon, uncovering mechanisms that optimize selective, metal-free H₂O₂ electrosynthesis."
+    summary: "Defects, oxygen groups, and alkali-metal cations modulate two-electron ORR on graphite and glassy carbon, uncovering mechanisms that optimise selective, metal-free H₂O₂ electrosynthesis."
     url: https://doi.org/10.1021/acscatal.4c04734
   categories: ["electrochemistry", "materials-science"]
   tags: ["Hydrogen Peroxide", "Oxygen Reduction Reaction", "Carbon Electrodes", "Surface Chemistry"]
