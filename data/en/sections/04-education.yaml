@@ -9,61 +9,57 @@ section:
 
 # Education experiences
 degrees:
-- name: Ph.D in Characterisation of Materials
+- name: Ph.D in Mechanical and Process Engineering
   icon: fa-microscope
   timeframe: Jan 2022 - Dec 2025
   institution:
-    name: Duisburg-Essen University
+    name: University of Duisburg-Essen
     url: https://www.uni-due.de/empi/pst/jain.php
     logo: /images/education/ude-white.webp
     darkLogo: /images/education/ude-dark.webp
-  takenCourses: 
-    showGrades: false
-    collapseAfter: 5
-    courses:
-    - name: Green Hydrogen
-    - name: Chemical Engineering
-    - name: Production Processes
-    - name: Process Design
-    - name: Analytical Skills
-    - name: Project Commissioning
+  customSections:
+    - name: Doctorate topic
+      content: Surface engineering of anode layers for alkaline water electrolysis
+    - name: Participated in
+      content: |
+        - International conferences
+        - Summer schools (materials science & energy)
+        - Workshops of entrepreneurship, soft skills & project management
 
-- name: Postgraduation Training Program in Chemical Energy Conversion
+- name: Postgraduate Training Program in Chemical Energy Conversion
   icon: fa-atom
   timeframe: Jan 2022 - Dec 2025
   institution:
-    name: Max Planck Institute
+    name: Max Planck Institute for Chemical Energy Conversion
     url: https://www.mpi-magdeburg.mpg.de/
     logo: /images/education/mpi-white.webp
     darkLogo: /images/education/mpi-dark.webp
-  takenCourses: 
-    showGrades: false
-    collapseAfter: 5
-    courses:
-    - name: Chemical Engineering
-    - name: Production Processes
-    - name: Analytical Skills
-    - name: Project Commissioning
+  customSections:
+    - name: Participated in
+      content: |
+        - Organizing a 3-day ACAMEC conference and retreat, including program coordination and budget management
+        - Interdisciplinary scientific lectures
+        - Seminars
 
-- name: Master's in Chemical and Energy Engineering
+- name: Master of Science in Chemical and Energy Engineering
   icon: fa-graduation-cap
   timeframe: Oct 2018 - Oct 2021
   institution:
-    name: Otto-von-Guericke Magdeburg University
+    name: Faculty of Process and System Engineering, Otto-von-Guericke Magdeburg University
     url: https://www.ovgu.de/
     logo: /images/education/ovgu-white.webp
     darkLogo: /images/education/ovgu-dark.webp
-  takenCourses: 
-    showGrades: false
-    collapseAfter: 5
-    courses:
-    - name: Process Technology (Chemical, Electrochemical, Mechanical and Thermal)
-    - name: Computational Fluid Dynamics 
-    - name: Fuel Cell Technology 
-    - name: Water Electrolysis 
-    - name: Renewable Energy Sources
+  customSections:
+    - name: Master's Thesis
+      content: CFD simulation of oxygen invasion in the porous transport layer during PEM water electrolysis utilizing STAR-CCM+
+    - name: Focus Areas
+      content: |
+        - Electrochemical Process Engineering (fuel cells, water electrolysis)
+        - Nanoparticle Technology
+        - Renewable Energy
+        - Chemical, Thermal & Mechanical Process Engineering
 
-- name: Bachelor of Engineering (B.E.), Mechanical Engineering
+- name: Bachelor of Engineering in Mechanical Engineering
   icon: fa-graduation-cap
   timeframe: 2013 - 2017
   institution:
@@ -71,12 +67,11 @@ degrees:
     url: https://vtu.ac.in/
     logo: /images/education/vtu-white.webp
     darkLogo: /images/education/vtu-dark.webp
-  takenCourses: 
-    showGrades: false
-    collapseAfter: 5
-    courses:
-    - name: Energy engineering
-    - name: Fluid mechanics 
-    - name: Power plant engineering 
-    - name: Thermodynamics
-    - name: Non-conventional Energy Sources
+  customSections:
+    - name: Award
+      content: "**Gold Medal for Academic Excellence (from 2013 to 2017)**"
+    - name: Focus Areas
+      content: |
+        - Energy systems (fossil, nuclear, hydro, solar, wind, hydrogen)
+        - Materials Science
+        - Process Engineering

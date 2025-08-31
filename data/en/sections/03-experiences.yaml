@@ -10,20 +10,24 @@ section:
 # Experiences
 experiences:
 - company:
-    name: Particle Science and Technology
+    name: Institute for Energy and Material Processes, University of Duisburg-Essen
     location: Duisburg, Germany
-    url: https://www.uni-due.de/ivg/pst/
+    url: https://www.uni-due.de/empi/pst/jain.php
     logo: /images/education/empi-white.webp
     darkLogo: /images/education/empi-dark.webp
     overview: ""
   positions:
-  - designation: Scientific Employee
+  - designation: Research Associate
     start: Jan 2022
     responsibilities:
-    - Materials development for improved hydrogen production via alkaline water electrolysis
-    - Process chain development for thin film formation
+      - "Developed and strategically optimized the electrode process chain: From transition metal oxides (Ni, Fe, Co) to functional coatings, covering formulation design, deposition (ultrasonic spray coating, doctor blade, airbrush), wetting/drying behaviour, and quality control for energy storage systems (electrolysers and fuel cells)"
+      - "Conducted electrochemical performance analysis of spray-coated electrode layers for green hydrogen production via alkaline water electrolysis (AWE)"
+      - "Evaluated the scalability and transferability of model-based coatings onto nickel mesh substrates for practical integration into AWE cells"
+      - "Supported R&D project proposals by identifying key knowledge gaps in anion exchange membrane (AEM) electrolysis, forecasting future needs, and backing proposals with data-driven analysis"
+      - "Collaborated closely with RWTH Aachen, MPI CEC, University of Kiel, and FAU Erlangen on sample exchange, knowledge transfer, and communication within the PrometH2eus project (H2Giga framework)"
+      - "Implemented agile practices by resolving workflow inefficiencies, improving data management, and enhancing collaboration within the research group"
 - company:
-    name: Otto-von-Guericke University
+    name: Transport in Porous Media Group, Otto-von-Guericke University
     location: Magdeburg, Germany
     url: https://www.ovgu.de/
     logo: /images/education/ovgu-white.webp
@@ -32,13 +36,13 @@ experiences:
   positions:
   - designation: Student Research Assistant
     start: Mar 2021
-    end: Oct 2021
+    end: Sep 2021
     responsibilities:
-    - X ray micro computed tomography and reconstruction of images 
+    - Analysed titanium transport layers using X-ray Micro-Computed Tomography for PEM water electrolysis applications
     - Two phase flow behaviour of the porous transport layer during water electrolysis
-    - Basic CAD design of micro fluidic experiment and flow channel CFD simulation• X ray micro computed tomography and reconstruction of images • Two phase flow behaviour of the porous transport layer during water electrolysis • Basic CAD design of micro fluidic experiment and flow channel CFD simulation
+    - Basic CAD design of micro fluidic experiment and flow channel CFD simulation
 - company:
-    name: Max Planck Institute
+    name: Physical and Chemical Foundation of Process Engineering, Max Planck Institute for Dynamics of Complex Technical Systems
     location: Magdeburg, Germany
     url: https://www.mpi-magdeburg.mpg.de/
     logo: /images/education/mpi-white.webp
@@ -49,7 +53,7 @@ experiences:
     start: Dec 2019
     end: Jun 2020
     responsibilities:
+    - Conducted thermodynamic and kinetic analysis of reaction volume changes in batch reactors using MATLAB
     - Investigation of the volume effect on liquid phase reaction
-    - "Review of possible volume changes scenarios in batch reactor: Thermodynamic and kinetic analysis of hydrolysis reaction."
     - "Experimental section: Materials, and Measurement of masses and Densities"
     - Literature review on Analytic methods, thermodynamic modelling and molar masses distribution of lignin fractionation.
