@@ -23,7 +23,6 @@ buttons:
   - name: Fuel Cells
     filter: "fuel-cells"
 
-# your publications
 publications:
 - title: "A Proof-of-Principle Demonstration: Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
   publishedIn:
@@ -31,28 +30,30 @@ publications:
     date: "09 January 2025"
     url: https://doi.org/10.1002/adfm.202421352
   authors:
-  - name: Adarsh Jain
-    url: https://orcid.org/0009-0001-6199-8340
-  - name: Christian Marcks
-    url: https://orcid.org/0000-0003-3618-4246
-  - name: Lars Grebener
-  - name: Jacob Johny
-    url: https://orcid.org/0000-0002-5941-6348
-  - name: Ahammed Suhail Odungat
-    url: https://orcid.org/0009-0004-5838-346X
-  - name: Mohit Chatwani
-    url: https://orcid.org/0009-0007-3471-6049
-  - name: Mena-Alexander Kräenbring
-    url: https://orcid.org/0000-0003-3314-9680
-  - name: Abhishek Shaji
-  - name: Marc Frederic Tesch
-    url: https://orcid.org/0000-0001-7480-7200
-  - name: Prof. Dr. Anna K. Mechler
-    url: https://orcid.org/0000-0002-0491-514X
-  - name: Dr. Vineetha Vinayakumar
-    url: https://orcid.org/0000-0002-6707-8051
-  - name: Prof. Dr. Doris Segets
-    url: https://orcid.org/0000-0003-3102-2934
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Abhishek Shaji
+      url: https://www.researchgate.net/scientific-contributions/Abhishek-Shaji-2296794198
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Study exploring the effect of Ni-Co-O anode microstructure, tuned by solvent composition and drying temperature, influences connectivity, roughness, and wettability, thereby affecting mechanical strength, contact resistance, and OER activity, guiding rational anode design."
     url: https://doi.org/10.1002/adfm.202421352
@@ -64,22 +65,22 @@ publications:
     date: "15 January 2024"
     url: https://doi.org/10.1002/cctc.202301461
   authors:
-  - name: Adarsh Jain
-    url: https://www.researchgate.net/profile/Adarsh-Jain-18
-  - name: Dr. Vineetha Vinayakumar
-    url: https://orcid.org/0000-0002-6707-8051
-  - name: Dr. André Olean-Oliveira
-    url: https://orcid.org/0000-0002-1716-1420
-  - name: Christian Marcks
-    url: https://orcid.org/0000-0003-3618-4246
-  - name: Mohit Chatwani
-    url: https://orcid.org/0009-0007-3471-6049
-  - name: Prof. Dr. Anna K. Mechler
-    url: https://orcid.org/0000-0002-0491-514X
-  - name: Prof. Dr. Corina Andronescu
-    url: https://orcid.org/0000-0002-1227-1209
-  - name: Prof. Dr. Doris Segets
-    url: https://orcid.org/0000-0003-3102-2934
+    - name: Adarsh Jain
+      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Study that desmonstrates MSDQ framework quantifies cobalt oxide anode surfaces using AFM, linking roughness, area, and homogeneity to OER activity, enabling precise characterisation, benchmarking, and manufacturing optimisation of electrocatalytic anodes."
     url: https://doi.org/10.1002/cctc.202301461
@@ -98,8 +99,10 @@ publications:
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
     - name: Timo Wagner
-    - name: Nicolas Wöhrl
-    - name: Anna K. Mechler
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Anna K. Mechler
       url: https://orcid.org/0000-0002-0491-514X
     - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
@@ -122,9 +125,9 @@ publications:
       url: https://orcid.org/0000-0003-3618-4246
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
-    - name: Anna K. Mechler
+    - name: Prof. Dr. Anna K. Mechler
       url: https://orcid.org/0000-0002-0491-514X
-    - name: Vineetha Vinayakumar
+    - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
@@ -145,11 +148,11 @@ publications:
       url: https://orcid.org/0000-0003-3618-4246
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
-    - name: Anna K. Mechler
+    - name: Prof. Dr. Anna K. Mechler
       url: https://orcid.org/0000-0002-0491-514X
-    - name: Vineetha Vinayakumar
+    - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
-    - name: Doris Segets
+    - name: Prof. Dr. Doris Segets
       url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Planetary ball-milling activates NiO, yielding stable, binder-free inks that spray-coat onto Ni plates and cut OER overpotential by ~100 mV without delamination."
@@ -164,15 +167,15 @@ publications:
   authors:
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
-    - name: Vineetha Vinayakumar
+    - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
-    - name: André Olean-Oliveira
+    - name: Dr. André Olean-Oliveira
       url: https://orcid.org/0000-0002-1716-1420
     - name: Christian Marcks
       url: https://orcid.org/0000-0003-3618-4246
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
-    - name: Anna K. Mechler
+    - name: Prof. Dr. Anna K. Mechler
       url: https://orcid.org/0000-0002-0491-514X
     - name: Corina Andronescu
       url: https://orcid.org/0000-0002-1227-1209
@@ -187,18 +190,21 @@ publications:
     date: "15 November 2024"
     url: https://doi.org/10.1021/acscatal.4c04734
   authors:
-    - name: André Olean-Oliveira
+    - name: Dr. André Olean-Oliveira
+      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
     - name: Najeeb Hasnain
+      url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
     - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
     - name: Ulrich Hagemann
       url: https://orcid.org/0000-0002-1880-6550
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
-    - name: Doris Segets
+    - name: Prof. Dr. Doris Segets
       url: https://orcid.org/0000-0003-3102-2934
-    - name: Ioannis Spanos
+    - name: Dr. Ioannis Spanos
       url: https://orcid.org/0000-0001-5737-4992
-    - name: Viktor Čolić
+    - name: Dr. Viktor Čolić
       url: https://orcid.org/0000-0003-1118-5592
   paper:
     summary: "Defects, oxygen groups, and alkali-metal cations modulate two-electron ORR on graphite and glassy carbon, uncovering mechanisms that optimise selective, metal-free H₂O₂ electrosynthesis."
@@ -211,7 +217,7 @@ publications:
     date: "09 December 2024"
     url: https://doi.org/10.31224/4205
   authors:
-    - name: Vineetha Vinayakumar
+    - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
     - name: Timo Wagner
       url: https://orcid.org/0000-0002-6853-0572
@@ -220,29 +226,38 @@ publications:
     - name: Jacob Johny
       url: https://orcid.org/0000-0002-5941-6348
     - name: Garlef Wartner
-    - name: Marc F. Tesch
-    - name: Ioannis Spanos
+      url: https://www.researchgate.net/profile/Garlef-Wartner
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
     - name: Aliakbar Ghafari
+      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
     - name: Oleg Prymak
       url: https://orcid.org/0000-0002-9494-8411
-    - name: Ignacio Sanjuán
+    - name: Dr. Ignacio Sanjuán Moltó
+      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
     - name: Ahammed Suhail Odungat
       url: https://orcid.org/0009-0004-5838-346X
     - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
     - name: Aneeta Jose
       url: https://orcid.org/0009-0001-0477-9723
     - name: Vimanshu Chanda
+      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
     - name: Axel Knop-Gericke
+      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
     - name: Corina Andronescu
       url: https://orcid.org/0000-0002-1227-1209
-    - name: Anna K. Mechler
+    - name: Prof. Dr. Anna K. Mechler
       url: https://orcid.org/0000-0002-0491-514X
-    - name: Nicolas Wöhrl
-    - name: Doris Segets
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Doris Segets
       url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Systematic workflow from ink formulation to plasma-treated Ni-Co-O spray coatings yields binder-free anodes with enhanced porosity, wettability and 43 mV lower overpotential at 100 mA cm⁻² in alkaline OER."
@@ -256,21 +271,32 @@ publications:
     url: https://doi.org/10.1016/j.jwpe.2024.106025
   authors:
     - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
     - name: Adil Amin
-    - name: Anam Asghar
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Dr. Anam Asghar
+      url: https://www.researchgate.net/profile/Anam-Asghar-4
     - name: Osama Anwar
-    - name: Soma Salamon
-    - name: Joachim Landers
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Dr. Soma Salamon
+      url: https://www.researchgate.net/profile/Soma-Salamon
+    - name: Dr. Joachim Landers
+      url: https://www.researchgate.net/profile/Joachim-Landers-2
     - name: Mena-Alexander Kräenbring
       url: https://orcid.org/0000-0003-3314-9680
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
     - name: Sebastian Hardt
+      url: https://www.researchgate.net/profile/Sebastian-Hardt-3
     - name: Hartmut Wiggers
-    - name: Torsten C. Schmidt
-    - name: Heiko Wende
-    - name: Christof Schulz
-    - name: Doris Segets
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Dr. Torsten C. Schmidt
+      url: https://www.researchgate.net/profile/Torsten-Schmidt-6
+    - name: Dr. Heiko Wende
+      url: https://www.researchgate.net/profile/Heiko-Wende
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Prof. Dr. Doris Segets
       url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Magnetic PAA-coated iron-oxide supraparticles adsorb metals and dyes with up to 670 mg g⁻¹ capacity and recover magnetically in 20 s, enabling rapid, low-cost water purification."
@@ -284,22 +310,32 @@ publications:
     url: https://doi.org/10.1016/j.ijhydene.2025.04.450
   authors:
     - name: Amin Said Amin
+      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
     - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
     - name: Ali Raza Khan
-    - name: André Olean-Oliveira
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
     - name: Ahammed Suhail Odungat
       url: https://orcid.org/0009-0004-5838-346X
     - name: Annika Gurowski
+      url: https://www.researchgate.net/scientific-contributions/Annika-Gurowski-2312891561
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
     - name: Lars Grebener
-    - name: Azita Rezvani
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Azita Rezvani
+      url: https://www.researchgate.net/profile/Azita-Rezvani
     - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
     - name: Thomas Lange
-    - name: Fatih Özcan
-    - name: Viktor Čolić
+      url: https://www.researchgate.net/scientific-contributions/Thomas-Lange-2258102916
+    - name: Dr. Fatih Özcan
+      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
+    - name: Dr. Viktor Čolić
       url: https://orcid.org/0000-0003-1118-5592
-    - name: Doris Segets
+    - name: Prof. Dr. Doris Segets
       url: https://orcid.org/0000-0003-3102-2934
   paper:
     summary: "Compares stirring, sonication, and wet milling of Pt/C inks; links particle size, Pt detachment, and pore architecture to PEMFC efficiency, highlighting optimal processing trade-offs."
