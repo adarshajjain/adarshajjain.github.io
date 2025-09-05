@@ -1,0 +1,73 @@
+# Section informations
+section:
+  name: Conferences
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  hideTitle: false
+
+# Filters
+buttons:
+- name: "All"
+  filter: "all"
+- name: "Posters"
+  filter: "poster"
+- name: "Orals"
+  filter: "oral"
+
+
+# Projects
+projects:
+- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
+  timeline: "GDCh Division of Chemistry and Energy 2025, Duisburg, Germany"
+  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
+  summary: Poster exploring the link between anode microstructure and OER performance in alkaline media.
+  tags: ["poster"]
+
+- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus)"
+  timeline: "H2Giga Status Conference 2024, Berlin, Germany"
+  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
+  summary: Poster showcasing an end-to-end fabrication workflow for AWE anodes within the PrometH2eus project.
+  tags: ["poster"]
+
+- name: "Understanding the Mechanism of Evaporation-Induced Islands during Catalyst-Layer Formation and Their Influence on the Alkaline Oxygen Evolution Reaction"
+  timeline: "ECS PRiME 2024, Honolulu, USA"
+  url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
+  summary: Oral presentation on evaporation-induced island formation in catalyst layers and its impact on OER performance.
+  tags: ["oral"]
+
+- name: "Investigating Anode Structural Characteristics with Multistage Data Quantification: Influence of Extrinsic Properties on OER in Alkaline Water Electrolysis"
+  timeline: "ECS PRiME 2024, Honolulu, USA"
+  url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
+  summary: Talk detailing multistage data-driven analysis of anode structure-property relationships for OER.
+  tags: ["oral"]
+
+- name: "Strategic Nano-Catalyst Arrangement on Anode Supports: Influence of Drying Dynamics on Catalyst-Layer Formation for Alkaline Water Electrolysis"
+  timeline: "ZBT Hydrogen Energy Symposium 2024, Duisburg, Germany"
+  url: https://indico.h2fc.center/event/63/attachments/53/111/Program%20Book%20HyES%20-%202025_Ver2025-08-27.pdf
+  summary: Oral presentation on how drying dynamics dictate nano-catalyst distribution and layer morphology.
+  tags: ["oral"]
+
+- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
+  timeline: "EFCF 2023, Lucerne, Switzerland"
+  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
+  summary: Poster outlining structure-activity relationships in spray-coated catalyst layers for AWE.
+  tags: ["poster"]
+
+- name: "Developing Anode Architectures to Enhance Hydrogen Production in Alkaline Water Electrolysis"
+  timeline: "European Coating Symposium 2023, Paris, France"
+  url: https://ecs2023.sciencesconf.org/data/ECS2023_book_of_abstracts.pdf
+  summary: Oral presentation on advanced anode architectures to boost hydrogen production in AWE.
+  tags: ["oral"]
+
+  timeline: "ECCE-ECAB 2023, Berlin, Germany"
+  url: https://dechema.converia.de/frontend/index.php?page_id=13659&v=List&do=15&day=all&ses=9538#
+  summary: Talk covering interfacial phenomena during catalyst-ink formation and wetting in electrode fabrication.
+  tags: ["oral"]
+
+- name: "Exploring Surface Features of Spray-Coated Anodes for Alkaline Water Electrolysis"
+  timeline: "ACAMEC 2022, Mülheim an der Ruhr, Germany"
+  url: https://www.cec.mpg.de/de/aktuelles/detailansicht/4th-imprs-recharge-symposium-acamec
+  summary: Poster presentation on the surface features of spray-coated anodes used in alkaline water electrolysis.
+  tags: ["poster"]
