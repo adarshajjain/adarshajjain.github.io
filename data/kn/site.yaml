@@ -1,0 +1,13 @@
+copyright: © ಆದರ್ಶ್ ಜೈನ್, 2025
+description: ಆದರ್ಶ್ ಜೈನ್ ಅವರ ಬ್ಲಾಗ್, ಬಿಸಿನೆಸ್ ಕಾರ್ಡ್ ಮತ್ತು ವೈಯಕ್ತಿಕ ವೆಬ್‌ಸೈಟ್
+customMenus:
+- name: LinkedIn
+  url: https://www.linkedin.com/in/adarshjainaj/
+  showOnFooter: true
+
+openGraph:
+  title: ಆದರ್ಶ್ ಜೈನ್
+  type: website
+  description: ಆದರ್ಶ್ ಜೈನ್ ಅವರ ವೃತ್ತಿಪರ ವೆಬ್‌ಸೈಟ್
+  image: images/cover/cover.jpg
+  url: https://adarshjain.de

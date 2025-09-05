@@ -1,0 +1,129 @@
+[home]
+other = "ಮುಖಪುಟ"
+
+[posts]
+other = "ಪೋಸ್ಟ್‌ಗಳು"
+
+[toc_heading]
+other = "ಪರಿವಿಡಿ"
+
+[tags]
+other = "ಟ್ಯಾಗ್‌ಗಳು"
+
+[categories]
+other = "ವರ್ಗಗಳು"
+
+[at]
+other = "ನಲ್ಲಿ"
+
+[resume]
+other = "ನನ್ನ ರೆಸ್ಯೂಮೆ"
+
+[navigation]
+other = "ನ್ಯಾವಿಗೇಷನ್"
+
+[contact_me]
+other = "ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಿ:"
+
+[email]
+other = "ಇಮೇಲ್"
+
+[phone]
+other = "ಫೋನ್"
+
+[newsletter_text]
+other = "ಇಮೇಲ್ ಅಧಿಸೂಚನೆಯೊಂದಿಗೆ ಅಪ್‌ಡೇಟ್ ಆಗಿರಿ"
+
+[newsletter_input_placeholder]
+other = "ಇಮೇಲ್ ನಮೂದಿಸಿ"
+
+[newsletter_warning]
+other = "ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸುವ ಮೂಲಕ, ನೀವು ಈ ವೆಬ್‌ಸೈಟ್‌ನ ಸುದ್ದಿಪತ್ರವನ್ನು ಸ್ವೀಕರಿಸಲು ಒಪ್ಪುತ್ತೀರಿ."
+
+[submit]
+other = "ಸಲ್ಲಿಸಿ"
+
+[hugoAttributionText]
+other = "ಇವರಿಂದ ನಡೆಸಲ್ಪಡುತ್ತಿದೆ"
+
+[prev]
+other = "ಹಿಂದಿನದು"
+
+[next]
+other = "ಮುಂದಿನದು"
+
+[share_on]
+other = "ಇದರಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ"
+
+[improve_this_page]
+other = "ಈ ಪುಟವನ್ನು ಸುಧಾರಿಸಿ"
+
+[out_of]
+other = "માંથી"
+
+[publications]
+other = "ಪ್ರಕಟಣೆಗಳು"
+
+[taken_courses]
+other = "ತೆಗೆದುಕೊಂಡ ಕೋರ್ಸ್‌ಗಳು"
+
+[course_name]
+other = "ಕೋರ್ಸ್ ಹೆಸರು"
+
+[total_credit]
+other = "ಒಟ್ಟು ಕ್ರೆಡಿಟ್"
+
+[obtained_credit]
+other = "ಪಡೆದ ಕ್ರೆಡಿಟ್"
+
+[extracurricular_activities]
+other = "ಪಠ್ಯೇತರ ಚಟುವಟಿಕೆಗಳು"
+
+[show_more]
+other = "ಇನ್ನಷ್ಟು ತೋರಿಸಿ"
+
+[show_less]
+other = "ಕಡಿಮೆ ತೋರಿಸಿ"
+
+[responsibilities]
+other = "ಜವಾಬ್ದಾರಿಗಳು:"
+
+[present]
+other = "ಪ್ರಸ್ತುತ"
+
+[comments_javascript]
+other = "ನೋಡಲು ದಯವಿಟ್ಟು ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+
+[comments_by]
+other = "ಇವರಿಂದ ನಡೆಸಲ್ಪಡುವ ಕಾಮೆಂಟ್‌ಗಳು"
+
+[read]
+other = "ಓದಿ"
+
+[project_star]
+other = "ಸ್ಟಾರ್"
+
+[project_details]
+other = "ವಿವರಗಳು"
+
+[err_404]
+other = "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಪುಟ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
+
+[more]
+other = "ಇನ್ನಷ್ಟು"
+
+[view_certificate]
+other = "ಪ್ರಮಾಣಪತ್ರವನ್ನು ವೀಕ್ಷಿಸಿ"
+
+[notes]
+other = "ಟಿಪ್ಪಣಿಗಳು"
+
+[disclaimer_text]
+other = "ಹೊಣೆಗಾರಿಕೆ ಸೂಚನೆ"
+
+[search]
+other = "ಹುಡುಕಿ"
+
+[minute]
+one = "ನಿಮಿಷ"
+other = "ನಿಮಿಷಗಳು"

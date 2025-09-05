@@ -1,0 +1,79 @@
+section:
+  name: ಶಿಕ್ಷಣ
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  hideTitle: false
+
+
+degrees:
+- name: ಮೆಕ್ಯಾನಿಕಲ್ ಮತ್ತು ಪ್ರೊಸೆಸ್ ಇಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಪಿಎಚ್.ಡಿ
+  icon: fa-microscope
+  timeframe: ಜನವರಿ 2022 - ಡಿಸೆಂಬರ್ 2025
+  institution:
+    name: ಯೂನಿವರ್ಸಿಟಿ ಆಫ್ ಡ್ಯೂಸ್‌ಬರ್ಗ್-ಎಸ್ಸೆನ್
+    url: https://www.uni-due.de/empi/pst/jain.php
+    logo: /images/education/ude-white.webp
+    darkLogo: /images/education/ude-dark.webp
+  customSections:
+    - name: ಡಾಕ್ಟರೇಟ್ ವಿಷಯ
+      content: ಕ್ಷಾರೀಯ ಜಲ ವಿದ್ಯುದ್ವಿಭಜನೆಗಾಗಿ ಆನೋಡ್ ಪದರಗಳ ಮೇಲ್ಮೈ ಇಂಜಿನಿಯರಿಂಗ್
+    - name: ಭಾಗವಹಿಸುವಿಕೆ
+      content: |
+        - ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನಗಳು
+        - ಬೇಸಿಗೆ ಶಾಲೆಗಳು (ವಸ್ತು ವಿಜ್ಞಾನ ಮತ್ತು ಶಕ್ತಿ)
+        - ಉದ್ಯಮಶೀಲತೆ, ಮೃದು ಕೌಶಲ್ಯಗಳು ಮತ್ತು ಯೋಜನಾ ನಿರ್ವಹಣೆಯ ಕಾರ್ಯಾಗಾರಗಳು
+
+
+- name: ರಾಸಾಯನಿಕ ಶಕ್ತಿ ಪರಿವರ್ತನೆಯಲ್ಲಿ ಸ್ನಾತಕೋತ್ತರ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮ
+  icon: fa-atom
+  timeframe: ಜನವರಿ 2022 - ಡಿಸೆಂಬರ್ 2025
+  institution:
+    name: ಮ್ಯಾಕ್ಸ್ ಪ್ಲ್ಯಾಂಕ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಫಾರ್ ಕೆಮಿಕಲ್ ಎನರ್ಜಿ ಕನ್ವರ್ಶನ್
+    url: https://www.mpi-magdeburg.mpg.de/
+    logo: /images/education/mpi-white.webp
+    darkLogo: /images/education/mpi-dark.webp
+  customSections:
+    - name: ಭಾಗವಹಿಸುವಿಕೆ
+      content: |
+        - 3-ದಿನದ ACAMEC ಸಮ್ಮೇಳನ ಮತ್ತು ಹಿಮ್ಮೆಟ್ಟುವಿಕೆಯನ್ನು ಆಯೋಜಿಸುವುದು, ಇದರಲ್ಲಿ ಕಾರ್ಯಕ್ರಮ ಸಮನ್ವಯ ಮತ್ತು ಬಜೆಟ್ ನಿರ್ವಹಣೆ ಸೇರಿದೆ
+        - ಅಂತರಶಿಸ್ತೀಯ ವೈಜ್ಞಾನಿಕ ಉಪನ್ಯಾಸಗಳು
+        - ವಿಚಾರಗೋಷ್ಠಿಗಳು
+
+
+- name: ರಾಸಾಯನಿಕ ಮತ್ತು ಶಕ್ತಿ ಇಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಮಾಸ್ಟರ್ ಆಫ್ ಸೈನ್ಸ್
+  icon: fa-graduation-cap
+  timeframe: ಅಕ್ಟೋಬರ್ 2018 - ಅಕ್ಟೋಬರ್ 2021
+  institution:
+    name: ಫ್ಯಾಕಲ್ಟಿ ಆಫ್ ಪ್ರೊಸೆಸ್ ಅಂಡ್ ಸಿಸ್ಟಮ್ ಇಂಜಿನಿಯರಿಂಗ್, ಒಟ್ಟೊ-ವಾನ್-ಗೆರಿಕೆ ಮ್ಯಾಗ್ಡೆಬರ್ಗ್ ಯೂನಿವರ್ಸಿಟಿ
+    url: https://www.ovgu.de/
+    logo: /images/education/ovgu-white.webp
+    darkLogo: /images/education/ovgu-dark.webp
+  customSections:
+    - name: ಸ್ನಾತಕೋತ್ತರ ಪ್ರಬಂಧ
+      content: STAR-CCM+ ಬಳಸಿ PEM ಜಲ ವಿದ್ಯುದ್ವಿಭಜನೆಯ ಸಮಯದಲ್ಲಿ ರಂಧ್ರಯುಕ್ತ ಸಾರಿಗೆ ಪದರದಲ್ಲಿ ಆಮ್ಲಜನಕದ ಆಕ್ರಮಣದ CFD ಸಿಮ್ಯುಲೇಶನ್
+    - name: ಗಮನದ ಕ್ಷೇತ್ರಗಳು
+      content: |
+        - ವಿದ್ಯುದ್ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆ ಇಂಜಿನಿಯರಿಂಗ್ (ಇಂಧನ ಕೋಶಗಳು, ಜಲ ವಿದ್ಯುದ್ವಿಭಜನೆ)
+        - ನ್ಯಾನೊಪರ್ಟಿಕಲ್ ತಂತ್ರಜ್ಞಾನ
+        - ನವೀಕರಿಸಬಹುದಾದ ಇಂಧನ
+        - ರಾಸಾಯನಿಕ, ಉಷ್ಣ ಮತ್ತು ಯಾಂತ್ರಿಕ ಪ್ರಕ್ರಿಯೆ ಇಂಜಿನಿಯರಿಂಗ್
+
+
+- name: ಮೆಕ್ಯಾನಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಬ್ಯಾಚುಲರ್ ಆಫ್ ಇಂಜಿನಿಯರಿಂಗ್
+  icon: fa-graduation-cap
+  timeframe: 2013 - 2017
+  institution:
+    name: ವಿಶ್ವೇಶ್ವರಯ್ಯ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+    url: https://vtu.ac.in/
+    logo: /images/education/vtu-white.webp
+    darkLogo: /images/education/vtu-dark.webp
+  customSections:
+    - name: ಪ್ರಶಸ್ತಿ
+      content: "**ಶೈಕ್ಷಣಿಕ ಶ್ರೇಷ್ಠತೆಗಾಗಿ ಚಿನ್ನದ ಪದಕ (2013 ರಿಂದ 2017 ರವರೆಗೆ)**"
+    - name: ಗಮನದ ಕ್ಷೇತ್ರಗಳು
+      content: |
+        - ಶಕ್ತಿ ವ್ಯವಸ್ಥೆಗಳು (ಪಳೆಯುಳಿಕೆ, ಪರಮಾಣು, ಜಲ, ಸೌರ, ಪವನ, ಹೈಡ್ರೋಜನ್)
+        - ವಸ್ತು ವಿಜ್ಞಾನ
+        - ಪ್ರಕ್ರಿಯೆ ಇಂಜಿನಿಯರಿಂಗ್

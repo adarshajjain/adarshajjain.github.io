@@ -25,6 +25,13 @@ languages:
   de:
     languageName: Deutsch
     weight: 2
+  kn:
+    languageCode: kn
+    languageName: ಕನ್ನಡ
+    weight: 3
+  hi:
+    languageName: हिन्दी
+    weight: 4
 
 # Raw HTML in Markdown
 markup:
@@ -73,7 +80,9 @@ params:
       on_card: true
     flags:
       enable: true
-    # Site categories
+      flagOverwrites:
+        - languageCode: kn
+          countryCode: in
     portfolio:
       enable: false
     blog:

@@ -1,0 +1,81 @@
+# Section informations
+section:
+  name: शिक्षा
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  hideTitle: false
+
+
+# Education experiences
+degrees:
+- name: मैकेनिकल और प्रोसेस इंजीनियरिंग में पीएचडी
+  icon: fa-microscope
+  timeframe: जनवरी 2022 - दिसंबर 2025
+  institution:
+    name: डुइसबर्ग-एसन विश्वविद्यालय
+    url: https://www.uni-due.de/empi/pst/jain.php
+    logo: /images/education/ude-white.webp
+    darkLogo: /images/education/ude-dark.webp
+  customSections:
+    - name: डॉक्टरेट विषय
+      content: क्षारीय जल इलेक्ट्रोलिसिस के लिए एनोड परतों की सतह इंजीनियरिंग
+    - name: में भाग लिया
+      content: |
+        - अंतर्राष्ट्रीय सम्मेलन
+        - समर स्कूल (सामग्री विज्ञान और ऊर्जा)
+        - उद्यमिता, सॉफ्ट स्किल्स और प्रोजेक्ट मैनेजमेंट की कार्यशालाएं
+
+
+- name: रासायनिक ऊर्जा रूपांतरण में स्नातकोत्तर प्रशिक्षण कार्यक्रम
+  icon: fa-atom
+  timeframe: जनवरी 2022 - दिसंबर 2025
+  institution:
+    name: मैक्स प्लैंक इंस्टीट्यूट फॉर केमिकल एनर्जी कन्वर्जन
+    url: https://www.mpi-magdeburg.mpg.de/
+    logo: /images/education/mpi-white.webp
+    darkLogo: /images/education/mpi-dark.webp
+  customSections:
+    - name: में भाग लिया
+      content: |
+        - कार्यक्रम समन्वय और बजट प्रबंधन सहित 3-दिवसीय ACAMEC सम्मेलन और रिट्रीट का आयोजन
+        - अंतःविषय वैज्ञानिक व्याख्यान
+        - सेमिनार
+
+
+- name: केमिकल और एनर्जी इंजीनियरिंग में मास्टर ऑफ साइंस
+  icon: fa-graduation-cap
+  timeframe: अक्टूबर 2018 - अक्टूबर 2021
+  institution:
+    name: प्रक्रिया और प्रणाली इंजीनियरिंग संकाय, ओटो-वॉन-गुएरिके मैगडेबर्ग विश्वविद्यालय
+    url: https://www.ovgu.de/
+    logo: /images/education/ovgu-white.webp
+    darkLogo: /images/education/ovgu-dark.webp
+  customSections:
+    - name: मास्टर की थीसिस
+      content: STAR-CCM+ का उपयोग करके PEM जल इलेक्ट्रोलिसिस के दौरान झरझरा परिवहन परत में ऑक्सीजन आक्रमण का सीएफडी सिमुलेशन
+    - name: फोकस क्षेत्र
+      content: |
+        - इलेक्ट्रोकेमिकल प्रोसेस इंजीनियरिंग (ईंधन सेल, जल इलेक्ट्रोलिसिस)
+        - नैनोपार्टिकल टेक्नोलॉजी
+        - नवीकरणीय ऊर्जा
+        - रासायनिक, थर्मल और मैकेनिकल प्रक्रिया इंजीनियरिंग
+
+
+- name: मैकेनिकल इंजीनियरिंग में बैचलर ऑफ इंजीनियरिंग
+  icon: fa-graduation-cap
+  timeframe: 2013 - 2017
+  institution:
+    name: विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय
+    url: https://vtu.ac.in/
+    logo: /images/education/vtu-white.webp
+    darkLogo: /images/education/vtu-dark.webp
+  customSections:
+    - name: पुरस्कार
+      content: "**शैक्षणिक उत्कृष्टता के लिए स्वर्ण पदक (2013 से 2017 तक)**"
+    - name: फोकस क्षेत्र
+      content: |
+        - ऊर्जा प्रणाली (जीवाश्म, परमाणु, जल, सौर, पवन, हाइड्रोजन)
+        - सामग्री विज्ञान
+        - प्रक्रिया इंजीनियरिंग

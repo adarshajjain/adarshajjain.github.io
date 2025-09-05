@@ -1,0 +1,84 @@
+# Section informations
+section:
+  name: "सम्मेलन"
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  hideTitle: false
+
+
+# Filters
+buttons:
+- name: "सभी"
+  filter: "all"
+- name: "पोस्टर"
+  filter: "poster"
+- name: "मौखिक"
+  filter: "oral"
+
+
+
+# Projects
+projects:
+- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
+  timeline: "GDCh Division of Chemistry and Energy 2025, डुइसबर्ग, जर्मनी"
+  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
+  summary: "क्षारीय मीडिया में एनोड माइक्रोस्ट्रक्चर और OER प्रदर्शन के बीच संबंध की खोज करने वाला पोस्टर।"
+  tags: ["poster"]
+
+
+- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus)"
+  timeline: "H2Giga Status Conference 2024, बर्लिन, जर्मनी"
+  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
+  summary: "PrometH2eus परियोजना के भीतर AWE एनोड्स के लिए एक एंड-टू-एंड निर्माण वर्कफ़्लो दिखाने वाला पोस्टर।"
+  tags: ["poster"]
+
+
+- name: "Understanding the Mechanism of Evaporation-Induced Islands during Catalyst-Layer Formation and Their Influence on the Alkaline Oxygen Evolution Reaction"
+  timeline: "ECS PRiME 2024, होनोलूलू, यूएसए"
+  url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
+  summary: "उत्प्रेरक परतों में वाष्पीकरण-प्रेरित द्वीप निर्माण और OER प्रदर्शन पर इसके प्रभाव पर मौखिक प्रस्तुति।"
+  tags: ["oral"]
+
+
+- name: "Investigating Anode Structural Characteristics with Multistage Data Quantification: Influence of Extrinsic Properties on OER in Alkaline Water Electrolysis"
+  timeline: "ECS PRiME 2024, होनोलूलू, यूएसए"
+  url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
+  summary: "OER के लिए एनोड संरचना-संपत्ति संबंधों के बहु-स्तरीय डेटा-संचालित विश्लेषण का विवरण देने वाली वार्ता।"
+  tags: ["oral"]
+
+
+- name: "Strategic Nano-Catalyst Arrangement on Anode Supports: Influence of Drying Dynamics on Catalyst-Layer Formation for Alkaline Water Electrolysis"
+  timeline: "ZBT Hydrogen Energy Symposium 2024, डुइसबर्ग, जर्मनी"
+  url: https://indico.h2fc.center/event/63/attachments/53/111/Program%20Book%20HyES%20-%202025_Ver2025-08-27.pdf
+  summary: "सुखाने की गतिशीलता नैनो-उत्प्रेरक वितरण और परत आकारिकी को कैसे निर्देशित करती है, इस पर मौखिक प्रस्तुति।"
+  tags: ["oral"]
+
+
+- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
+  timeline: "EFCF 2023, ल्यूसर्न, स्विट्जरलैंड"
+  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
+  summary: "AWE के लिए स्प्रे-कोटेड उत्प्रेरक परतों में संरचना-गतिविधि संबंधों को रेखांकित करने वाला पोस्टर।"
+  tags: ["poster"]
+
+
+- name: "Developing Anode Architectures to Enhance Hydrogen Production in Alkaline Water Electrolysis"
+  timeline: "European Coating Symposium 2023, पेरिस, फ्रांस"
+  url: https://ecs2023.sciencesconf.org/data/ECS2023_book_of_abstracts.pdf
+  summary: "AWE में हाइड्रोजन उत्पादन को बढ़ावा देने के लिए उन्नत एनोड आर्किटेक्चर पर मौखिक प्रस्तुति।"
+  tags: ["oral"]
+
+
+- name: "Understanding the Role of Interfaces during the Formation of Catalyst Inks, Wetting and Catalyst Layers along the Process Chain of Electrode Fabrication"
+  timeline: "ECCE-ECAB 2023, बर्लिन, जर्मनी"
+  url: https://dechema.converia.de/frontend/index.php?page_id=13659&v=List&do=15&day=all&ses=9538#
+  summary: "इलेक्ट्रोड निर्माण में उत्प्रेरक-स्याही निर्माण और गीला करने के दौरान इंटरफेसियल घटनाओं को कवर करने वाली वार्ता।"
+  tags: ["oral"]
+
+
+- name: "Exploring Surface Features of Spray-Coated Anodes for Alkaline Water Electrolysis"
+  timeline: "ACAMEC 2022, मुलहेम एन डेर रूर, जर्मनी"
+  url: https://www.cec.mpg.de/de/aktuelles/detailansicht/4th-imprs-recharge-symposium-acamec
+  summary: "क्षारीय जल इलेक्ट्रोलिसिस में उपयोग किए जाने वाले स्प्रे-कोटेड एनोड्स की सतह की विशेषताओं पर पोस्टर प्रस्तुति।"
+  tags: ["poster"]

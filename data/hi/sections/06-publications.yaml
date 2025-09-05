@@ -1,0 +1,343 @@
+section:
+  name: शोध लेख
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+buttons:
+  - name: सभी
+    filter: "all"
+  - name: सहकर्मी-समीक्षित
+    filter: "reviewed"
+  - name: प्रकाशित सम्मेलन सार
+    filter: "abstract"
+
+publications:
+- title: "A Proof-of-Principle Demonstration: Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "Advanced Functional Materials (Wiley)"
+    date: "09 जनवरी 2025"
+    url: https://doi.org/10.1002/adfm.202421352
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Abhishek Shaji
+      url: https://www.researchgate.net/scientific-contributions/Abhishek-Shaji-2296794198
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "विलायक संरचना और सुखाने के तापमान द्वारा ट्यून किए गए नी-को-ओ एनोड माइक्रोस्ट्रक्चर के प्रभाव की खोज करने वाला अध्ययन, कनेक्टिविटी, खुरदरापन और गीलापन को प्रभावित करता है, जिससे यांत्रिक शक्ति, संपर्क प्रतिरोध और ओईआर गतिविधि प्रभावित होती है, तर्कसंगत एनोड डिजाइन का मार्गदर्शन करती है।"
+    url: https://doi.org/10.1002/adfm.202421352
+  categories: ["reviewed"]
+  tags: ["इलेक्ट्रोकैटलिसिस", "ऑक्सीजन विकास प्रतिक्रिया", "माइक्रोस्ट्रक्चर", "कार्यात्मक सामग्री"]
+
+- title: "From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "ChemCatChem (Wiley)"
+    date: "15 जनवरी 2024"
+    url: https://doi.org/10.1002/cctc.202301461
+  authors:
+    - name: Adarsh Jain
+      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "अध्ययन जो दर्शाता है कि एमएसडीक्यू ढांचा एएफएम का उपयोग करके कोबाल्ट ऑक्साइड एनोड सतहों को मापता है, खुरदरापन, क्षेत्र और एकरूपता को ओईआर गतिविधि से जोड़ता है, इलेक्ट्रोकैटलिटिक एनोड के सटीक लक्षण वर्णन, बेंचमार्किंग और विनिर्माण अनुकूलन को सक्षम करता है।"
+    url: https://doi.org/10.1002/cctc.202301461
+  categories: ["reviewed"]
+  tags: ["ऑक्सीजन विकास प्रतिक्रिया", "उत्प्रेरण", "सामग्री विज्ञान"]
+
+- title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
+  publishedIn:
+    name: "ACS Catalysis (ACS)"
+    date: "15 नवंबर 2024"
+    url: https://doi.org/10.1021/acscatal.4c04734
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
+    - name: Najeeb Hasnain
+      url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "दोष, ऑक्सीजन समूह, और क्षार-धातु के धनायन ग्रेफाइट और ग्लासी कार्बन पर दो-इलेक्ट्रॉन ओआरआर को नियंत्रित करते हैं, उन तंत्रों को उजागर करते हैं जो चयनात्मक, धातु-मुक्त H₂O₂ इलेक्ट्रोसिंथेसिस का अनुकूलन करते हैं।"
+    url: https://doi.org/10.1021/acscatal.4c04734
+  categories: ["reviewed"]
+  tags: ["हाइड्रोजन पेरोक्साइड", "ऑक्सीजन न्यूनीकरण प्रतिक्रिया", "कार्बन इलेक्ट्रोड", "सतह रसायन"]
+
+- title: "Holistic Evaluation of Ni-Co-O Anodes: Integrated Workflow from Ink Formulation to Plasma Post-Processing for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ChemRxiv"
+    date: "09 दिसंबर 2024"
+    url: https://doi.org/10.31224/4205
+  authors:
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Timo Wagner
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Garlef Wartner
+      url: https://www.researchgate.net/profile/Garlef-Wartner
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Aliakbar Ghafari
+      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Oleg Prymak
+      url: https://orcid.org/0000-0002-9494-8411
+    - name: Dr. Ignacio Sanjuán Moltó
+      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Aneeta Jose
+      url: https://orcid.org/0009-0001-0477-9723
+    - name: Vimanshu Chanda
+      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
+    - name: Axel Knop-Gericke
+      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
+    - name: Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "इंक फॉर्मूलेशन से प्लाज्मा-उपचारित नी-को-ओ स्प्रे कोटिंग्स तक व्यवस्थित वर्कफ़्लो बाइंडर-मुक्त एनोड्स को बढ़ाता है, जिसमें क्षारीय ओईआर में 100 एमए सेमी⁻² पर बढ़ी हुई छिद्र, गीलापन और 43 एमवी कम ओवरपोटेंशियल होता है।"
+    url: https://doi.org/10.31224/4205
+  categories: ["reviewed"]
+  tags: ["क्षारीय जल इलेक्ट्रोलिसिस", "प्लाज्मा प्रसंस्करण", "स्प्रे कोटिंग", "बाइंडर-मुक्त एनोड्स", "नी-को-ओ"]
+
+- title: "Polyacrylic Acid Functionalized Superparamagnetic Iron-Oxide Supraparticles for Highly Efficient Adsorption and Removal of Contaminants from Water"
+  publishedIn:
+    name: "Journal of Water Process Engineering (Elsevier)"
+    date: "02 सितंबर 2024"
+    url: https://doi.org/10.1016/j.jwpe.2024.106025
+  authors:
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Adil Amin
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Dr. Anam Asghar
+      url: https://www.researchgate.net/profile/Anam-Asghar-4
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Dr. Soma Salamon
+      url: https://www.researchgate.net/profile/Soma-Salamon
+    - name: Dr. Joachim Landers
+      url: https://www.researchgate.net/profile/Joachim-Landers-2
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Sebastian Hardt
+      url: https://www.researchgate.net/profile/Sebastian-Hardt-3
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Dr. Torsten C. Schmidt
+      url: https://www.researchgate.net/profile/Torsten-Schmidt-6
+    - name: Dr. Heiko Wende
+      url: https://www.researchgate.net/profile/Heiko-Wende
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "चुंबकीय पीएए-लेपित आयरन-ऑक्साइड सुप्रैपार्टिकल्स 670 मिलीग्राम जी⁻¹ क्षमता तक धातुओं और रंगों को सोख लेते हैं और 20 सेकंड में चुंबकीय रूप से ठीक हो जाते हैं, जिससे तेजी से, कम लागत वाली जल शोधन सक्षम होती है।"
+    url: https://doi.org/10.1016/j.jwpe.2024.106025
+  categories: ["reviewed"]
+  tags: ["जल शोधन", "सोखना", "चुंबकीय नैनोकण", "पॉलीएक्रिलिक एसिड"]
+
+- title: "The Impact of Ink Processing on Key Characteristics of Platinum Detachment and Pore Structure to Optimize Fuel Cell Performance"
+  publishedIn:
+    name: "International Journal of Hydrogen Energy (Elsevier)"
+    date: "19 जून 2025"
+    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
+  authors:
+    - name: Amin Said Amin
+      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Annika Gurowski
+      url: https://www.researchgate.net/scientific-contributions/Annika-Gurowski-2312891561
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Azita Rezvani
+      url: https://www.researchgate.net/profile/Azita-Rezvani
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Thomas Lange
+      url: https://www.researchgate.net/scientific-contributions/Thomas-Lange-2258102916
+    - name: Dr. Fatih Özcan
+      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Pt/C स्याही के सरगर्मी, सोनिकरण और गीले मिलिंग की तुलना; कण आकार, Pt टुकड़ी, और पोर वास्तुकला को PEMFC दक्षता से जोड़ता है, इष्टतम प्रसंस्करण ट्रेड-ऑफ को उजागर करता है।"
+    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
+  categories: ["reviewed"]
+  tags: ["PEMFC", "उत्प्रेरक स्याही प्रसंस्करण", "प्लेटिनम टुकड़ी", "पोर संरचना", "ईंधन सेल प्रदर्शन"]
+
+- title: "Understanding the Mechanism of Evaporation-Induced Islands during the Formation of Catalyst Layers and Their Influence on the Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22 नवंबर 2024"
+    url: https://doi.org/10.1149/MA2024-02282134mtgabs
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+  paper:
+    summary: "दिखाता है कि सुखाने का तापमान NiCoO₂ उत्प्रेरक स्याही में द्वीप आकृति विज्ञान को कैसे आकार देता है, माइक्रोस्ट्रक्चर को स्केलेबल क्षारीय एनोड के लिए गीलापन, बुलबुला गतिशीलता और OER प्रदर्शन से जोड़ता है।"
+    url: https://doi.org/10.1149/MA2024-02282134mtgabs
+  categories: ["abstract"]
+  tags: ["सुखाने के तंत्र", "उत्प्रेरक परत आकृति विज्ञान", "ऑक्सीजन विकास प्रतिक्रिया", "निकल कोबाल्ट ऑक्साइड"]
+
+- title: "Investigating Anode Structural Characteristics with Multistage Data Quantification: Influence of Extrinsic Properties of Anodes for Oxidation Evolution Reaction in Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22 नवंबर 2024"
+    url: https://doi.org/10.1149/MA2024-02282197mtgabs
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+  paper:
+    summary: "एमएसडीक्यू सांख्यिकीय रूप से स्प्रे-लेपित एनोड के एएफएम-व्युत्पन्न खुरदरापन, क्षेत्र और एकरूपता को ओईआर गतिविधि से जोड़ता है, तर्कसंगत क्षारीय इलेक्ट्रोड डिजाइन के लिए पूर्ण पैमाने पर सतह बहिर्वेशन को सक्षम करता है।"
+    url: https://doi.org/10.1149/MA2024-02282197mtgabs
+  categories: ["abstract"]
+  tags: ["मल्टीस्टेज डेटा क्वांटिफिकेशन", "सतह आकृति विज्ञान", "ऑक्सीजन विकास प्रतिक्रिया", "क्षारीय जल इलेक्ट्रोलिसिस"]
+
+- title: "Unveiling a Binder-Free Approach through Plasma Treatment of NiCoO₂ Anode Multi-Layer Coatings for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22 नवंबर 2024"
+    url: https://doi.org/10.1149/MA2024-02282132mtgabs
+  authors:
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Timo Wagner
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "नाइट्रोजन-प्लाज्मा-उपचारित NiCoO₂ कोटिंग्स PFAS बाइंडरों को खत्म करती हैं, एनोड आसंजन और OER गतिविधि में सुधार करती हैं जबकि लागत कम करती हैं और यूरोपीय संघ के PFAS प्रतिबंधों के साथ संरेखित होती हैं।"
+    url: https://doi.org/10.1149/MA2024-02282132mtgabs
+  categories: ["abstract"]
+  tags: ["बाइंडर-मुक्त एनोड्स", "प्लाज्मा उपचार", "ऑक्सीजन विकास प्रतिक्रिया", "हाइड्रोजन उत्पादन"]
+
+- title: "Mechanochemical Activation of Nickel Oxide Enabling Binder-Free Anodes for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22 नवंबर 2024"
+    url: https://doi.org/10.1149/MA2024-02282133mtgabs
+  authors:
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "प्लैनेटरी बॉल-मिलिंग नीओ को सक्रिय करती है, स्थिर, बाइंडर-मुक्त स्याही देती है जो नी प्लेटों पर स्प्रे-कोट करती है और बिना डीलामिनेशन के ओईआर ओवरपोटेंशियल को ~ 100 एमवी तक कम करती है।"
+    url: https://doi.org/10.1149/MA2024-02282133mtgabs
+  categories: ["abstract"]
+  tags: ["बाइंडर-मुक्त एनोड्स", "मेकेनोकेमिकल सक्रियण", "निकल ऑक्साइड", "ऑक्सीजन विकास प्रतिक्रिया"]
