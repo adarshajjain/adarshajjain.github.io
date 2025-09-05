@@ -1,0 +1,347 @@
+# section information
+section:
+  name: Forschungsartikel
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: Alle
+    filter: "all"
+  - name: Peer-reviewed
+    filter: "reviewed"
+  - name: Veröffentlichte Konferenz-Abstracts
+    filter: "abstract"
+
+publications:
+- title: "A Proof-of-Principle Demonstration: Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "Advanced Functional Materials (Wiley)"
+    date: "09. Januar 2025"
+    url: https://doi.org/10.1002/adfm.202421352
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Abhishek Shaji
+      url: https://www.researchgate.net/scientific-contributions/Abhishek-Shaji-2296794198
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Studie, die untersucht, wie die durch Lösungsmittelzusammensetzung und Trocknungstemperatur eingestellte Mikrostruktur der Ni-Co-O-Anode die Konnektivität, Rauheit und Benetzbarkeit beeinflusst und dadurch die mechanische Festigkeit, den Kontaktwiderstand und die OER-Aktivität beeinflusst, was als Leitfaden für ein rationales Anodendesign dient."
+    url: https://doi.org/10.1002/adfm.202421352
+  categories: ["reviewed"]
+  tags: ["Elektrokatalyse", "Sauerstoffentwicklungsreaktion", "Mikrostruktur", "Funktionale Materialien"]
+
+- title: "From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "ChemCatChem (Wiley)"
+    date: "15. Januar 2024"
+    url: https://doi.org/10.1002/cctc.202301461
+  authors:
+    - name: Adarsh Jain
+      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Studie, die zeigt, wie das MSDQ-Framework Oberflächen von Kobaltoxid-Anoden mittels AFM quantifiziert, indem es Rauheit, Fläche und Homogenität mit der OER-Aktivität verknüpft, was eine präzise Charakterisierung, Benchmarking und Fertigungsoptimierung von elektrokatalytischen Anoden ermöglicht."
+    url: https://doi.org/10.1002/cctc.202301461
+  categories: ["reviewed"]
+  tags: ["Sauerstoffentwicklungsreaktion", "Katalyse", "Materialwissenschaft"]
+
+- title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
+  publishedIn:
+    name: "ACS Catalysis (ACS)"
+    date: "15. November 2024"
+    url: https://doi.org/10.1021/acscatal.4c04734
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
+    - name: Najeeb Hasnain
+      url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "Defekte, Sauerstoffgruppen und Alkalimetallkationen modulieren die Zwei-Elektronen-ORR auf Graphit und glasartigem Kohlenstoff und decken Mechanismen auf, die die selektive, metallfreie H₂O₂-Elektrosynthese optimieren."
+    url: https://doi.org/10.1021/acscatal.4c04734
+  categories: ["reviewed"]
+  tags: ["Wasserstoffperoxid", "Sauerstoffreduktionsreaktion", "Kohlenstoffelektroden", "Oberflächenchemie"]
+
+- title: "Holistic Evaluation of Ni-Co-O Anodes: Integrated Workflow from Ink Formulation to Plasma Post-Processing for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ChemRxiv"
+    date: "09. Dezember 2024"
+    url: https://doi.org/10.31224/4205
+  authors:
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Timo Wagner
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Garlef Wartner
+      url: https://www.researchgate.net/profile/Garlef-Wartner
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Aliakbar Ghafari
+      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Oleg Prymak
+      url: https://orcid.org/0000-0002-9494-8411
+    - name: Dr. Ignacio Sanjuán Moltó
+      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Aneeta Jose
+      url: https://orcid.org/0009-0001-0477-9723
+    - name: Vimanshu Chanda
+      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
+    - name: Axel Knop-Gericke
+      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
+    - name: Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Ein systematischer Arbeitsablauf von der Tintenformulierung bis zu plasmabehandelten Ni-Co-O-Sprühbeschichtungen ergibt bindemittelfreie Anoden mit verbesserter Porosität, Benetzbarkeit und einem um 43 mV geringeren Überpotenzial bei 100 mA cm⁻² in der alkalischen OER."
+    url: https://doi.org/10.31224/4205
+  categories: ["reviewed"]
+  tags: ["Alkalische Wasserelektrolyse", "Plasmabearbeitung", "Sprühbeschichtung", "Bindemittelfreie Anoden", "Ni-Co-O"]
+
+- title: "Polyacrylic Acid Functionalized Superparamagnetic Iron-Oxide Supraparticles for Highly Efficient Adsorption and Removal of Contaminants from Water"
+  publishedIn:
+    name: "Journal of Water Process Engineering (Elsevier)"
+    date: "02. September 2024"
+    url: https://doi.org/10.1016/j.jwpe.2024.106025
+  authors:
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Adil Amin
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Dr. Anam Asghar
+      url: https://www.researchgate.net/profile/Anam-Asghar-4
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Dr. Soma Salamon
+      url: https://www.researchgate.net/profile/Soma-Salamon
+    - name: Dr. Joachim Landers
+      url: https://www.researchgate.net/profile/Joachim-Landers-2
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Sebastian Hardt
+      url: https://www.researchgate.net/profile/Sebastian-Hardt-3
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Dr. Torsten C. Schmidt
+      url: https://www.researchgate.net/profile/Torsten-Schmidt-6
+    - name: Dr. Heiko Wende
+      url: https://www.researchgate.net/profile/Heiko-Wende
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Magnetische, PAA-beschichtete Eisenoxid-Suprapartikel adsorbieren Metalle und Farbstoffe mit einer Kapazität von bis zu 670 mg g⁻¹ und können in 20 s magnetisch zurückgewonnen werden, was eine schnelle, kostengünstige Wasserreinigung ermöglicht."
+    url: https://doi.org/10.1016/j.jwpe.2024.106025
+  categories: ["reviewed"]
+  tags: ["Wasserreinigung", "Adsorption", "Magnetische Nanopartikel", "Polyacrylsäure"]
+
+- title: "The Impact of Ink Processing on Key Characteristics of Platinum Detachment and Pore Structure to Optimize Fuel Cell Performance"
+  publishedIn:
+    name: "International Journal of Hydrogen Energy (Elsevier)"
+    date: "19. Juni 2025"
+    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
+  authors:
+    - name: Amin Said Amin
+      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Annika Gurowski
+      url: https://www.researchgate.net/scientific-contributions/Annika-Gurowski-2312891561
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Azita Rezvani
+      url: https://www.researchgate.net/profile/Azita-Rezvani
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Thomas Lange
+      url: https://www.researchgate.net/scientific-contributions/Thomas-Lange-2258102916
+    - name: Dr. Fatih Özcan
+      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Vergleicht Rühren, Ultraschallbehandlung und Nassmahlen von Pt/C-Tinten; verbindet Partikelgröße, Pt-Ablösung und Porenarchitektur mit der PEMFC-Effizienz und hebt optimale Verarbeitungskompromisse hervor."
+    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
+  categories: ["reviewed"]
+  tags: ["PEMFC", "Katalysatortinten-Verarbeitung", "Platin-Ablösung", "Porenstruktur", "Brennstoffzellenleistung"]
+
+- title: "Understanding the Mechanism of Evaporation-Induced Islands during the Formation of Catalyst Layers and Their Influence on the Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22. November 2024"
+    url: https://doi.org/10.1149/MA2024-02282134mtgabs
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+  paper:
+    summary: "Zeigt, wie die Trocknungstemperatur die Inselmorphologie in NiCoO₂-Katalysatortinten formt und die Mikrostruktur mit Benetzbarkeit, Blasendynamik und OER-Leistung für skalierbare alkalische Anoden verknüpft."
+    url: https://doi.org/10.1149/MA2024-02282134mtgabs
+  categories: ["abstract"]
+  tags: ["Trocknungsmechanismen", "Katalysatorschicht-Morphologie", "Sauerstoffentwicklungsreaktion", "Nickel-Kobalt-Oxid"]
+
+- title: "Investigating Anode Structural Characteristics with Multistage Data Quantification: Influence of Extrinsic Properties of Anodes for Oxidation Evolution Reaction in Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22. November 2024"
+    url: https://doi.org/10.1149/MA2024-02282197mtgabs
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+  paper:
+    summary: "MSDQ verknüpft statistisch die mittels AFM abgeleitete Rauheit, Fläche und Homogenität von sprühbeschichteten Anoden mit der OER-Aktivität, was eine Oberflächenextrapolation im vollen Maßstab für ein rationales Design alkalischer Elektroden ermöglicht."
+    url: https://doi.org/10.1149/MA2024-02282197mtgabs
+  categories: ["abstract"]
+  tags: ["Mehrstufige Datenquantifizierung", "Oberflächenmorphologie", "Sauerstoffentwicklungsreaktion", "Alkalische Wasserelektrolyse"]
+
+- title: "Unveiling a Binder-Free Approach through Plasma Treatment of NiCoO₂ Anode Multi-Layer Coatings for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22. November 2024"
+    url: https://doi.org/10.1149/MA2024-02282132mtgabs
+  authors:
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Timo Wagner
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Stickstoffplasmabehandelte NiCoO₂-Beschichtungen eliminieren PFAS-Bindemittel, verbessern die Haftung der Anode und die OER-Aktivität, senken gleichzeitig die Kosten und entsprechen den EU-PFAS-Beschränkungen."
+    url: https://doi.org/10.1149/MA2024-02282132mtgabs
+  categories: ["abstract"]
+  tags: ["Bindemittelfreie Anoden", "Plasmabehandlung", "Sauerstoffentwicklungsreaktion", "Wasserstoffproduktion"]
+
+- title: "Mechanochemical Activation of Nickel Oxide Enabling Binder-Free Anodes for Alkaline Water Electrolysis"
+  publishedIn:
+    name: "ECS Meeting Abstracts (ECS)"
+    date: "22. November 2024"
+    url: https://doi.org/10.1149/MA2024-02282133mtgabs
+  authors:
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Planetenkugelfräsen aktiviert NiO und führt zu stabilen, bindemittelfreien Tinten, die auf Ni-Platten aufgesprüht werden und das OER-Überpotential um ca. 100 mV ohne Delamination reduzieren."
+    url: https://doi.org/10.1149/MA2024-02282133mtgabs
+  categories: ["abstract"]
+  tags: ["Bindemittelfreie Anoden", "Mechanochemische Aktivierung", "Nickeloxid", "Sauerstoffentwicklungsreaktion"]

@@ -1,0 +1,80 @@
+section:
+  name: Ausbildung
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  hideTitle: false
+
+
+# Ausbildungserfahrungen
+degrees:
+- name: Ph.D. in Maschinenbau und Verfahrenstechnik
+  icon: fa-microscope
+  timeframe: Jan 2022 - Dez 2025
+  institution:
+    name: Universität Duisburg-Essen
+    url: https://www.uni-due.de/empi/pst/jain.php
+    logo: /images/education/ude-white.webp
+    darkLogo: /images/education/ude-dark.webp
+  customSections:
+    - name: Thema der Promotion
+      content: Oberflächentechnik von Anodenschichten für die alkalische Wasserelektrolyse
+    - name: Teilnahme an
+      content: |
+        - Internationalen Konferenzen
+        - Sommerschulen (Materialwissenschaft & Energie)
+        - Workshops zu Unternehmertum, Soft Skills & Projektmanagement
+
+
+- name: Postgraduierten-Trainingsprogramm in chemischer Energieumwandlung
+  icon: fa-atom
+  timeframe: Jan 2022 - Dez 2025
+  institution:
+    name: Max-Planck-Institut für chemische Energiekonversion
+    url: https://www.mpi-magdeburg.mpg.de/
+    logo: /images/education/mpi-white.webp
+    darkLogo: /images/education/mpi-dark.webp
+  customSections:
+    - name: Teilnahme an
+      content: |
+        - Organisation einer 3-tägigen ACAMEC-Konferenz und eines Retreats, einschließlich Programmkoordination und Budgetmanagement
+        - Interdisziplinären wissenschaftlichen Vorträgen
+        - Seminaren
+
+
+- name: Master of Science in Chemie und Energietechnik
+  icon: fa-graduation-cap
+  timeframe: Okt 2018 - Okt 2021
+  institution:
+    name: Fakultät für Verfahrens- und Systemtechnik, Otto-von-Guericke-Universität Magdeburg
+    url: https://www.ovgu.de/
+    logo: /images/education/ovgu-white.webp
+    darkLogo: /images/education/ovgu-dark.webp
+  customSections:
+    - name: Masterarbeit
+      content: CFD-Simulation des Sauerstoffeintrags in die poröse Transportschicht während der PEM-Wasserelektrolyse mit STAR-CCM+
+    - name: Schwerpunkte
+      content: |
+        - Elektrochemische Verfahrenstechnik (Brennstoffzellen, Wasserelektrolyse)
+        - Nanopartikeltechnologie
+        - Erneuerbare Energien
+        - Chemische, thermische & mechanische Verfahrenstechnik
+
+
+- name: Bachelor of Engineering in Maschinenbau
+  icon: fa-graduation-cap
+  timeframe: 2013 - 2017
+  institution:
+    name: Visvesvaraya Technological University 
+    url: https://vtu.ac.in/
+    logo: /images/education/vtu-white.webp
+    darkLogo: /images/education/vtu-dark.webp
+  customSections:
+    - name: Auszeichnung
+      content: "**Goldmedaille für akademische Exzellenz (von 2013 bis 2017)**"
+    - name: Schwerpunkte
+      content: |
+        - Energiesysteme (fossil, nuklear, wasser, solar, wind, wasserstoff)
+        - Materialwissenschaft
+        - Verfahrenstechnik

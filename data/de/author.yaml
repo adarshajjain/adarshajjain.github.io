@@ -3,20 +3,20 @@ name: Adarsh Jain
 nickname: Adarsh Jain
 
 # Greetings & background
-# greeting: "👋 je suis"
+# greeting: "👋 I am"
 image: images/author/photo.webp
 
 # Footer contact
 contactInfo:
-  email: timothe@chauvet.cloud
+  email: contact@adarshjain.de
   linkedin: adarshajjain
-  github: adarshajjain
+  researchgate: Adarsh-Jain-18
 
 # Blinking text
 summary:
-  - ❤️ DevOps
-  - ❤️ Cloud
-  - ❤️ Open Source Software
-  - ❤️ Musique électronique
-  - ❤️ Kubernetes
-  - ❤️ Design
+  - Wasserstofftechnologien
+  - Nachhaltige Energielösungen
+  - Ingenieurwesen
+  - Produktionsprozesse
+  - Prozesskettenentwicklung
+  - Forschung & Entwicklung

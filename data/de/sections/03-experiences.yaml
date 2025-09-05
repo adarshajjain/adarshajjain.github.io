@@ -1,0 +1,57 @@
+section:
+  name: Erfahrungen
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  hideTitle: false 
+
+experiences:
+- company:
+    name: Institut für Energie und Materialprozesse, Universität Duisburg-Essen
+    location: Duisburg, Deutschland
+    url: https://www.uni-due.de/empi/pst/jain.php
+    logo: /images/education/empi-white.webp
+    darkLogo: /images/education/empi-dark.webp
+    overview: ""
+  positions:
+  - designation: Wissenschaftlicher Mitarbeiter
+    start: Jan 2022
+    responsibilities:
+      - "Entwicklung und strategische Optimierung der Elektrodenprozesskette: Von Übergangsmetalloxiden (Ni, Fe, Co) zu funktionellen Beschichtungen, einschließlich Formulierungsdesign, Abscheidung (Ultraschallsprühbeschichtung, Rakel, Airbrush), Benetzungs-/Trocknungsverhalten und Qualitätskontrolle für Energiespeichersysteme (Elektrolyseure und Brennstoffzellen)"
+      - "Durchführung elektrochemischer Leistungsanalysen von sprühbeschichteten Elektrodenschichten zur Erzeugung von grünem Wasserstoff mittels alkalischer Wasserelektrolyse (AWE)"
+      - "Bewertung der Skalierbarkeit und Übertragbarkeit von modellbasierten Beschichtungen auf Nickelnetzsubstrate für die praktische Integration in AWE-Zellen"
+      - "Unterstützung von F&E-Projektanträgen durch Identifizierung wichtiger Wissenslücken in der Anionenaustauschmembran (AEM)-Elektrolyse, Prognose zukünftiger Bedarfe und Untermauerung der Anträge mit datengestützten Analysen"
+      - "Enge Zusammenarbeit mit der RWTH Aachen, dem MPI CEC, der Universität Kiel und der FAU Erlangen beim Probenaustausch, Wissenstransfer und der Kommunikation im Rahmen des PrometH2eus-Projekts (H2Giga-Rahmenwerk)"
+      - "Implementierung agiler Praktiken durch Behebung von Ineffizienzen im Arbeitsablauf, Verbesserung des Datenmanagements und Stärkung der Zusammenarbeit innerhalb der Forschungsgruppe"
+- company:
+    name: Fachgebiet Transport in porösen Medien, Otto-von-Guericke-Universität
+    location: Magdeburg, Deutschland
+    url: https://www.ovgu.de/
+    logo: /images/education/ovgu-white.webp
+    darkLogo: /images/education/ovgu-dark.webp
+    overview:  
+  positions:
+  - designation: Studentische Hilfskraft
+    start: Mär 2021
+    end: Sep 2021
+    responsibilities:
+    - Analyse von Titan-Transportschichten mittels Röntgen-Mikro-Computertomographie für PEM-Wasserelektrolyse-Anwendungen
+    - Zweiphasenströmungsverhalten der porösen Transportschicht während der Wasserelektrolyse
+    - Grundlegendes CAD-Design eines mikrofluidischen Experiments und CFD-Simulation eines Strömungskanals
+- company:
+    name: Physikalische und Chemische Grundlagen der Prozesstechnik, Max-Planck-Institut für Dynamik komplexer technischer Systeme
+    location: Magdeburg, Deutschland
+    url: https://www.mpi-magdeburg.mpg.de/
+    logo: /images/education/mpi-white.webp
+    darkLogo: /images/education/mpi-dark.webp
+    overview:  
+  positions:
+  - designation: Studentische Hilfskraft
+    start: Dez 2019
+    end: Jun 2020
+    responsibilities:
+    - Durchführung thermodynamischer und kinetischer Analysen von Reaktionsvolumenänderungen in Batch-Reaktoren mit MATLAB
+    - Untersuchung des Volumeneffekts auf die Flüssigphasenreaktion
+    - "Experimenteller Teil: Materialien und Messung von Massen und Dichten"
+    - Literaturrecherche zu Analysemethoden, thermodynamischer Modellierung und Molmassenverteilung der Lignin-Fraktionierung

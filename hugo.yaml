@@ -22,9 +22,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  # de:
-  #   languageName: Deutsh
-  #   weight: 2
+  de:
+    languageName: Deutsch
+    weight: 2
 
 # Raw HTML in Markdown
 markup:

@@ -1,0 +1,29 @@
+section:
+  name: Fähigkeiten
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: false
+  hideTitle: false
+
+
+skills:
+- name: Elektrochemische Verfahrenstechnik
+  logo: /images/skills/chemical.png
+  summary: "Erfahren in Wasserelektrolyse- und Brennstoffzellensystemen, mit Schwerpunkt auf Elektrodendesign und Leistungsbewertung. Umfassendes Verständnis der Strömungs- und Transportdynamik an Dreiphasen-Kontaktlinien (fest-flüssig-gas). Angewandte elektrochemische Erkenntnisse zur Optimierung von Prozessen zur Erzeugung von grünem Wasserstoff."
+
+- name: F&E und Innovation
+  logo: /images/skills/research.png
+  summary: "Mehr als 3 Jahre Forschungserfahrung mit über 5 von Experten begutachteten wissenschaftlichen Veröffentlichungen in den Bereichen Energie und Materialwissenschaften. Nachgewiesene Erfolgsbilanz bei der Weiterentwicklung von Konzepten im Labormaßstab zu industriell skalierbaren Prozessen. Aktiv in kooperativen Forschungsnetzwerken und Beitrag zur Innovation bei Wasserstofftechnologien."
+
+- name: Prozessdesign und -entwicklung
+  logo: /images/skills/process.png
+  summary: "Erfahren in der Entwicklung von Prozessketten, von der Tintenformulierung bis zur Leistungsprüfung. Praktische Expertise in der Tintenverarbeitung, Ultraschallsprühbeschichtung, Airbrush-Beschichtung und Rakelbeschichtungstechniken. Qualifiziert in der Projektinbetriebnahme, in Produktionsprozessen und im experimentellen Design für technische Anwendungen."
+
+- name: Materialcharakterisierung
+  logo: /images/skills/materials.png
+  summary: "Qualifiziert in der Analyse von Kolloidformulierungen, Studien zum Benetzungsverhalten und Hansen-Löslichkeitsparametern. Erfahren mit Rasterelektronenmikroskopie (REM), Rasterkraftmikroskopie (AFM) und Kontaktwinkelmessungen für Oberflächen- und Struktureinblicke. Fokussiert auf die Verknüpfung von Materialeigenschaften mit der Leistung in Elektrolyseuren."
+
+- name: Daten- und Bildanalyse
+  logo: /images/skills/matlab.png
+  summary: "Fortgeschrittene Kenntnisse in MATLAB für die automatisierte Bildverarbeitung, Merkmalsextraktion und Datenmodellierung. Umfangreiche Erfahrung im Umgang mit AFM-Bildern, Rekonstruktionen aus der Röntgen-Mikro-Computertomographie (µCT) und multiskaligen Datensätzen. Fließender Umgang mit ImageJ und OriginPro für wissenschaftliche Visualisierung, statistische Auswertung und Analyse."

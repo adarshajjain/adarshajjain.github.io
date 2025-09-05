@@ -1,0 +1,33 @@
+# Abschnittsinformationen
+section:
+  name: Über mich
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: false
+
+
+# Berufliche Informationen
+designation: Wasserstofftechnologien | Nachhaltige Energielösungen | Ingenieurwesen | Produktionsprozesse | Prozesskettenentwicklung | Forschung & Entwicklung
+summary: |
+        Ich bin ein erfahrener F&E-Experte mit nachweislicher Erfolgsbilanz bei der Skalierung fortschrittlicher Anodenproduktionstechnologien, mit besonderem Fokus auf Wasserelektrolyse- und Brennstoffzellenanwendungen in den letzten Jahren.
+
+        Meine Expertise liegt darin, die Lücke zwischen Laborforschung und industrieller Umsetzung zu schließen und Innovationen vom Konzept über die Pilotentwicklung bis zur Marktreife voranzutreiben. Ich bin hochqualifiziert in der Prozessoptimierung, Materialcharakterisierung und funktionsübergreifenden Zusammenarbeit, unterstützt durch einen agilen Ansatz, der es mir ermöglicht, mich schnell anzupassen, komplexe Projekte zu managen und in dynamischen Umgebungen Ergebnisse zu liefern.
+
+        Anerkannt für meine ausgeprägte Problemlösungskompetenz, mein praxisnahes technisches Fachwissen und meine Fähigkeit, Spitzenforschung mit praktischen, skalierbaren Ergebnissen in Einklang zu bringen, setze ich mich leidenschaftlich dafür ein, Innovationen im sauberen Energiesektor zu beschleunigen.
+
+
+socialLinks:
+- name: Email
+  icon: fas fa-envelope
+  url: contact@adarshjain.de
+- name: LinkedIn
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/adarshjainaj/
+- name: ResearchGate
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Adarsh-Jain-18
+- name: ORCiD
+  icon: fab fa-orcid
+  url: https://orcid.org/0009-0001-6199-8340
+

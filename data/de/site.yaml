@@ -1,26 +1,14 @@
-# Copyright
 copyright: © Adarsh Jain, 2025
+description: Blog, Visitenkarte und persönliche Webseite von Adarsh Jain.
 
-# Disclaimer
-disclaimer: Thème Hugo Toha sous licence MIT. Contenu sous licence CC BY-NC 4.0.
-
-# Description
-description: Blog, carte de visite et site internet personnel de Adarsh Jain.
-
-# Menus
 customMenus:
-# - name: Docs
-#   url: https://toha-guides.netlify.app/posts/
-#   # specify whether to hide the menu item from top navbar or not.
-#   hideFromNavbar: false
-#   # specify whether to show the menu item in footer or not.
-#   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
-#   showOnFooter: false
+- name: LinkedIn
+  url: https://www.linkedin.com/in/adarshjainaj/
+  showOnFooter: true
 
-# Specify OpenGraph Headers
 openGraph:
-  title: Blog de Adarsh Jain
+  title: Adarsh Jain
   type: website
-  description: Site personnel et blog de Adarsh Jain
+  description: Professionelle Webseite von Adarsh Jain
   image: images/cover/cover.jpg
   url: https://adarshjain.de
