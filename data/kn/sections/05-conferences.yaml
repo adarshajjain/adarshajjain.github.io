@@ -17,20 +17,6 @@ buttons:
 
 
 projects:
-- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
-  timeline: "GDCh Division of Chemistry and Energy 2025, ಡ್ಯೂಸ್‌ಬರ್ಗ್, ಜರ್ಮನಿ"
-  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
-  summary: ಕ್ಷಾರೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ಆನೋಡ್ ಮೈಕ್ರೋಸ್ಟ್ರಕ್ಚರ್ ಮತ್ತು OER ಕಾರ್ಯಕ್ಷಮತೆಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಪರಿಶೋಧಿಸುವ ಪೋಸ್ಟರ್.
-  tags: ["poster"]
-
-
-- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus)"
-  timeline: "H2Giga Status Conference 2024, ಬರ್ಲಿನ್, ಜರ್ಮನಿ"
-  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
-  summary: PrometH2eus ಯೋಜನೆಯೊಳಗೆ AWE ಆನೋಡ್‌ಗಳಿಗಾಗಿ ಎಂಡ್-ಟು-ಎಂಡ್ ಫ್ಯಾಬ್ರಿಕೇಶನ್ ವರ್ಕ್‌ಫ್ಲೋ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ಪೋಸ್ಟರ್.
-  tags: ["poster"]
-
-
 - name: "Understanding the Mechanism of Evaporation-Induced Islands during Catalyst-Layer Formation and Their Influence on the Alkaline Oxygen Evolution Reaction"
   timeline: "ECS PRiME 2024, ಹೊನೊಲುಲು, USA"
   url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
@@ -52,13 +38,6 @@ projects:
   tags: ["oral"]
 
 
-- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
-  timeline: "EFCF 2023, ಲ್ಯೂಸರ್ನ್, ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್"
-  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
-  summary: AWE ಗಾಗಿ ಸ್ಪ್ರೇ-ಲೇಪಿತ ವೇಗವರ್ಧಕ ಪದರಗಳಲ್ಲಿ ರಚನೆ-ಚಟುವಟಿಕೆ ಸಂಬಂಧಗಳನ್ನು ವಿವರಿಸುವ ಪೋಸ್ಟರ್.
-  tags: ["poster"]
-
-
 - name: "Developing Anode Architectures to Enhance Hydrogen Production in Alkaline Water Electrolysis"
   timeline: "European Coating Symposium 2023, ಪ್ಯಾರಿಸ್, ಫ್ರಾನ್ಸ್"
   url: https://ecs2023.sciencesconf.org/data/ECS2023_book_of_abstracts.pdf
@@ -71,6 +50,27 @@ projects:
   url: https://dechema.converia.de/frontend/index.php?page_id=13659&v=List&do=15&day=all&ses=9538#
   summary: ಎಲೆಕ್ಟ್ರೋಡ್ ಫ್ಯಾಬ್ರಿಕೇಶನ್‌ನಲ್ಲಿ ವೇಗವರ್ಧಕ-ಶಾಯಿ ರಚನೆ ಮತ್ತು ತೇವಗೊಳಿಸುವಿಕೆಯ ಸಮಯದಲ್ಲಿ ಇಂಟರ್ಫೇಶಿಯಲ್ ವಿದ್ಯಮಾನಗಳನ್ನು ಒಳಗೊಂಡ ಮಾತುಕತೆ.
   tags: ["oral"]
+
+
+- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
+  timeline: "GDCh Division of Chemistry and Energy 2025, ಡ್ಯೂಸ್‌ಬರ್ಗ್, ಜರ್ಮನಿ"
+  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
+  summary: ಕ್ಷಾರೀಯ ಮಾಧ್ಯಮದಲ್ಲಿ ಆನೋಡ್ ಮೈಕ್ರೋಸ್ಟ್ರಕ್ಚರ್ ಮತ್ತು OER ಕಾರ್ಯಕ್ಷಮತೆಯ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಪರಿಶೋಧಿಸುವ ಪೋಸ್ಟರ್.
+  tags: ["poster"]
+
+
+- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus)"
+  timeline: "H2Giga Status Conference 2024, ಬರ್ಲಿನ್, ಜರ್ಮನಿ"
+  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
+  summary: PrometH2eus ಯೋಜನೆಯೊಳಗೆ AWE ಆನೋಡ್‌ಗಳಿಗಾಗಿ ಎಂಡ್-ಟು-ಎಂಡ್ ಫ್ಯಾಬ್ರಿಕೇಶನ್ ವರ್ಕ್‌ಫ್ಲೋ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ಪೋಸ್ಟರ್.
+  tags: ["poster"]
+
+
+- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
+  timeline: "EFCF 2023, ಲ್ಯೂಸರ್ನ್, ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್"
+  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
+  summary: AWE ಗಾಗಿ ಸ್ಪ್ರೇ-ಲೇಪಿತ ವೇಗವರ್ಧಕ ಪದರಗಳಲ್ಲಿ ರಚನೆ-ಚಟುವಟಿಕೆ ಸಂಬಂಧಗಳನ್ನು ವಿವರಿಸುವ ಪೋಸ್ಟರ್.
+  tags: ["poster"]
 
 
 - name: "Exploring Surface Features of Spray-Coated Anodes for Alkaline Water Electrolysis"

@@ -43,8 +43,8 @@ experiences:
     name: Physikalische und Chemische Grundlagen der Prozesstechnik, Max-Planck-Institut für Dynamik komplexer technischer Systeme
     location: Magdeburg, Deutschland
     url: https://www.mpi-magdeburg.mpg.de/
-    logo: /images/education/mpi-white.webp
-    darkLogo: /images/education/mpi-dark.webp
+    logo: /images/education/mpi-experience-white.webp
+    darkLogo: /images/education/mpi-experience-dark.webp
     overview:  
   positions:
   - designation: Studentische Hilfskraft

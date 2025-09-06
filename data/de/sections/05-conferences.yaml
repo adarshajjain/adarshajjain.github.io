@@ -16,20 +16,6 @@ buttons:
   filter: "oral"
 
 projects:
-- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
-  timeline: "GDCh-Fachgruppentagung Chemie und Energie 2025, Duisburg, Deutschland"
-  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
-  summary: Poster, das den Zusammenhang zwischen der Mikrostruktur der Anode und der OER-Leistung in alkalischen Medien untersucht.
-  tags: ["poster"]
-
-
-- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus) 1.1 PrometH2eus)"
-  timeline: "H2Giga-Statuskonferenz 2024, Berlin, Deutschland"
-  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
-  summary: Poster, das einen durchgängigen Herstellungsprozess für AWE-Anoden im Rahmen des PrometH2eus-Projekts vorstellt.
-  tags: ["poster"]
-
-
 - name: "Understanding the Mechanism of Evaporation-Induced Islands during Catalyst-Layer Formation and Their Influence on the Alkaline Oxygen Evolution Reaction"
   timeline: "ECS PRiME 2024, Honolulu, USA"
   url: https://ecs.confex.com/ecs/prime2024/meetingapp.cgi/Person/232303
@@ -51,24 +37,40 @@ projects:
   tags: ["oral"]
 
 
-- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
-  timeline: "EFCF 2023, Luzern, Schweiz"
-  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
-  summary: Poster, das die Struktur-Aktivitäts-Beziehungen in sprühbeschichteten Katalysatorschichten für die AWE darstellt.
-  tags: ["poster"]
-
-
 - name: "Developing Anode Architectures to Enhance Hydrogen Production in Alkaline Water Electrolysis"
   timeline: "European Coating Symposium 2023, Paris, Frankreich"
   url: https://ecs2023.sciencesconf.org/data/ECS2023_book_of_abstracts.pdf
   summary: Mündlicher Vortrag über fortschrittliche Anodenarchitekturen zur Steigerung der Wasserstoffproduktion in der AWE.
   tags: ["oral"]
 
+
 - name: "Understanding the Role of Interfaces during the Formation of Catalyst Inks, Wetting and Catalyst Layers along the Process Chain of Electrode Fabrication"
   timeline: "ECCE-ECAB 2023, Berlin, Deutschland"
   url: https://dechema.converia.de/frontend/index.php?page_id=13659&v=List&do=15&day=all&ses=9538#
   summary: Vortrag über Grenzflächenphänomene bei der Bildung von Katalysatortinte und der Benetzung bei der Elektrodenherstellung.
   tags: ["oral"]
+
+
+- name: "Beyond the Surface: Uncovering the Potential of Anode Microstructure for the Alkaline Oxygen Evolution Reaction"
+  timeline: "GDCh-Fachgruppentagung Chemie und Energie 2025, Duisburg, Deutschland"
+  url: https://veranstaltungen.gdch.de/microsite/index.cfm?l=11725&modus=
+  summary: Poster, das den Zusammenhang zwischen der Mikrostruktur der Anode und der OER-Leistung in alkalischen Medien untersucht.
+  tags: ["poster"]
+
+
+- name: "A Holistic Fabrication Approach: Synthesis, Formulation, and Application for AWE Anodes (QT 1.1 PrometH2eus) 1.1 PrometH2eus)"
+  timeline: "H2Giga-Statuskonferenz 2024, Berlin, Deutschland"
+  url: https://dechema.converia.de/frontend/index.php?folder_id=4546&page_id=
+  summary: Poster, das einen durchgängigen Herstellungsprozess für AWE-Anoden im Rahmen des PrometH2eus-Projekts vorstellt.
+  tags: ["poster"]
+
+
+- name: "Unravelling Structure-Activity Relationships of Spray-Coated Catalyst Layers Used for Alkaline Water Electrolysis"
+  timeline: "EFCF 2023, Luzern, Schweiz"
+  url: https://www.efcf.com/fileadmin/files/2023/Conference/EFCF-2023_Electrol-FC-H2_4-7July-FinAnnouncement-Program_all.pdf
+  summary: Poster, das die Struktur-Aktivitäts-Beziehungen in sprühbeschichteten Katalysatorschichten für die AWE darstellt.
+  tags: ["poster"]
+
 
 - name: "Exploring Surface Features of Spray-Coated Anodes for Alkaline Water Electrolysis"
   timeline: "ACAMEC 2022, Mülheim an der Ruhr, Deutschland"
