@@ -30,4 +30,6 @@ socialLinks:
 - name: ORCiD
   icon: fab fa-orcid
   url: https://orcid.org/0009-0001-6199-8340
-
+- name: Google Scholar
+  icon: fab fa-google-scholar
+  url: https://scholar.google.com/citations?user=EyEnu7IAAAAJ&hl=de

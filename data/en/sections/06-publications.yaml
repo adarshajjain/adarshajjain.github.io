@@ -22,7 +22,6 @@ publications:
   publishedIn:
     name: "Advanced Functional Materials (Wiley)"
     date: "09 January 2025"
-    url: https://doi.org/10.1002/adfm.202421352
   authors:
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
@@ -53,11 +52,11 @@ publications:
     url: https://doi.org/10.1002/adfm.202421352
   categories: ["reviewed"]
   tags: ["Electrocatalysis", "Oxygen Evolution Reaction", "Microstructure", "Functional Materials"]
+
 - title: "From Small-Area Observations to Insight: Surface-Feature-Extrapolation of Anodes for Alkaline Oxygen Evolution Reaction"
   publishedIn:
     name: "ChemCatChem (Wiley)"
     date: "15 January 2024"
-    url: https://doi.org/10.1002/cctc.202301461
   authors:
     - name: Adarsh Jain
       url: https://www.researchgate.net/profile/Adarsh-Jain-18
@@ -80,11 +79,144 @@ publications:
     url: https://doi.org/10.1002/cctc.202301461
   categories: ["reviewed"]
   tags: ["Oxygen Evolution Reaction", "Catalysis", "Materials Science"]
+
+- title: "Supraparticle Assembly of La₀.₈Sr₀.₂CoO₃ Nanoparticles for Enhanced Lattice Oxygen Oxidation in Alkaline Electrolysis"
+  publishedIn:
+    name: "ACS Applied Materials & Interfaces"
+    date: "11 September 2025"
+  authors:
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Adil Amin
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Mohammed-Ali Sheikh
+      url: https://orcid.org/0009-0005-3972-5097
+    - name: Adarsh Jain
+      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+    - name: Amin Said Amin
+      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
+    - name: Ralf Meckenstock
+      url: https://orcid.org/0009-0002-6537-0646
+    - name: Thai Binh Nguyen
+      url: https://www.researchgate.net/scientific-contributions/Thai-Binh-Nguyen-2180625628
+    - name: Khuzaifa Yahuza Muhammad
+      url: https://orcid.org/0000-0002-0792-8421
+    - name: Abdallah Hamdan
+      url: https://pubs.acs.org/doi/10.1021/acsami.5c11289
+    - name: Steven Angel
+      url: https://www.researchgate.net/profile/Steven-Angel
+    - name: Michael Farle
+      url: https://orcid.org/0000-0002-1864-3261
+    - name: Prof. Dr. Ulf-Peter Apfel
+      url: https://orcid.org/0000-0002-1577-2420
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Hierarchical La₀.₈Sr₀.₂CoO₃ supraparticles with 65% porosity enhance OER via LOM-OVSM, reducing overpotential ~300mV and improving kinetics compared to nanoparticles."
+    url: https://pubs.acs.org/doi/10.1021/acsami.5c11289
+  categories: ["reviewed"]
+  tags: ["Oxygen Evolution Reaction", "Lattice Oxygen Mechanism", "Alkaline Water Electrolysis"]
+
+- title: "Emulsion-based electrolytes for sustainable electrocatalytic synthesis and efficient product recovery in zero-gap electrolyzers"
+  publishedIn:
+    name: "Chemical Engineering Journal"
+    date: "9 September 2025"
+  authors:
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Leon Wickert
+      url: https://www.researchgate.net/profile/Leon-Wickert
+    - name: Victoria Müller
+      url: https://orcid.org/0009-0008-1363-0112
+    - name: Adil Amin
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Julian Tobias Kleinhaus
+      url: https://orcid.org/0000-0002-0901-4789
+    - name: Dr. Kevinjeorjios Pellumbi
+      url: https://orcid.org/0000-0002-5313-5799
+    - name: Dr. Daniel Siegmund
+      url: https://orcid.org/0000-0003-2476-8965
+    - name: Dr. Fatih Özcan
+      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
+    - name: Prof. Dr. Ulf-Peter Apfel
+      url: https://orcid.org/0000-0002-1577-2420
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Aqueous emulsions enable VOC-free zero-gap electrochemical hydrogenation, converting phenylacetylene sustainably with scalable PEM electrolyzers and simple downstream separation via centrifugation."
+    url: https://doi.org/10.1016/j.cej.2025.168297
+  categories: ["reviewed"]
+  tags: ["Electrosynthesis", "Zero-Gap Electrolyzer", "Aqueous Emulsions"]
+
+- title: "Ni-Co-O anodes for the alkaline oxygen evolution reaction: Multistage electrode optimization and plasma-assisted activity enhancement enabled by a coherent workflow"
+  publishedIn:
+    name: "Chemical Engineering Journal"
+    date: "12 August 2025"
+  authors:
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Timo Wagner
+      url: https://orcid.org/0000-0002-6853-0572
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Garlef Wartner
+      url: https://www.researchgate.net/profile/Garlef-Wartner
+    - name: Dr. Ahyoun Lim
+      url: https://www.researchgate.net/profile/Ahyoun-Lim
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Aliakbar Ghafari
+      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Oleg Prymak
+      url: https://orcid.org/0000-0002-9494-8411
+    - name: Ignacio Sanjuán
+      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Aneeta Jose
+      url: https://orcid.org/0009-0001-0477-9723
+    - name: Vimanshu Chanda
+      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
+    - name: Axel Knop-Gericke
+      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
+    - name: Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Nicolas Wöhrl
+      url: https://www.researchgate.net/profile/Nicolas-Woehrl
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Ni-Co-O anodes with nitrogen plasma post-treatment showed 43mV lower overpotential, improved wettability, and Fe uptake enhancing OER performance."
+    url: https://doi.org/10.1016/j.cej.2025.167169
+  categories: ["reviewed"]
+  tags: ["Oxygen Evolution Reaction", "Plasma Treatment", "Ni-Co-O"]
+
 - title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
   publishedIn:
     name: "ACS Catalysis (ACS)"
     date: "15 November 2024"
-    url: https://doi.org/10.1021/acscatal.4c04734
   authors:
     - name: Dr. André Olean-Oliveira
       url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
@@ -111,7 +243,6 @@ publications:
   publishedIn:
     name: "ChemRxiv"
     date: "09 December 2024"
-    url: https://doi.org/10.31224/4205
   authors:
     - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
@@ -164,7 +295,6 @@ publications:
   publishedIn:
     name: "Journal of Water Process Engineering (Elsevier)"
     date: "02 September 2024"
-    url: https://doi.org/10.1016/j.jwpe.2024.106025
   authors:
     - name: Mohaned Hammad
       url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
@@ -203,7 +333,6 @@ publications:
   publishedIn:
     name: "International Journal of Hydrogen Energy (Elsevier)"
     date: "19 June 2025"
-    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
   authors:
     - name: Amin Said Amin
       url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
@@ -242,7 +371,6 @@ publications:
   publishedIn:
     name: "ECS Meeting Abstracts (ECS)"
     date: "22 November 2024"
-    url: https://doi.org/10.1149/MA2024-02282134mtgabs
   authors:
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
@@ -265,7 +393,6 @@ publications:
   publishedIn:
     name: "ECS Meeting Abstracts (ECS)"
     date: "22 November 2024"
-    url: https://doi.org/10.1149/MA2024-02282197mtgabs
   authors:
     - name: Adarsh Jain
       url: https://orcid.org/0009-0001-6199-8340
@@ -290,7 +417,6 @@ publications:
   publishedIn:
     name: "ECS Meeting Abstracts (ECS)"
     date: "22 November 2024"
-    url: https://doi.org/10.1149/MA2024-02282132mtgabs
   authors:
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
@@ -317,7 +443,6 @@ publications:
   publishedIn:
     name: "ECS Meeting Abstracts (ECS)"
     date: "22 November 2024"
-    url: https://doi.org/10.1149/MA2024-02282133mtgabs
   authors:
     - name: Mohit Chatwani
       url: https://orcid.org/0009-0007-3471-6049
