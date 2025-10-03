@@ -213,6 +213,45 @@ publications:
   categories: ["reviewed"]
   tags: ["Sauerstoffentwicklungsreaktion", "Plasmabehandlung", "Ni-Co-O"]
 
+- title: "The Impact of Ink Processing on Key Characteristics of Platinum Detachment and Pore Structure to Optimize Fuel Cell Performance"
+  publishedIn:
+    name: "International Journal of Hydrogen Energy (Elsevier)"
+    date: "19. Juni 2025"
+  authors:
+    - name: Amin Said Amin
+      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Annika Gurowski
+      url: https://www.researchgate.net/scientific-contributions/Annika-Gurowski-2312891561
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Azita Rezvani
+      url: https://www.researchgate.net/profile/Azita-Rezvani
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Thomas Lange
+      url: https://www.researchgate.net/scientific-contributions/Thomas-Lange-2258102916
+    - name: Dr. Fatih Özcan
+      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Vergleicht Rühren, Ultraschallbehandlung und Nassmahlen von Pt/C-Tinten; verbindet Partikelgröße, Pt-Ablösung und Porenarchitektur mit der PEMFC-Effizienz und hebt optimale Verarbeitungskompromisse hervor."
+    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
+  categories: ["reviewed"]
+  tags: ["PEMFC", "Katalysatortinten-Verarbeitung", "Platin-Ablösung", "Porenstruktur", "Brennstoffzellenleistung"]
+
 - title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
   publishedIn:
     name: "ACS Catalysis (ACS)"
@@ -239,59 +278,6 @@ publications:
     url: https://doi.org/10.1021/acscatal.4c04734
   categories: ["reviewed"]
   tags: ["Wasserstoffperoxid", "Sauerstoffreduktionsreaktion", "Kohlenstoffelektroden", "Oberflächenchemie"]
-
-- title: "Holistic Evaluation of Ni-Co-O Anodes: Integrated Workflow from Ink Formulation to Plasma Post-Processing for Alkaline Water Electrolysis"
-  publishedIn:
-    name: "ChemRxiv"
-    date: "09. Dezember 2024"
-  authors:
-    - name: Dr. Vineetha Vinayakumar
-      url: https://orcid.org/0000-0002-6707-8051
-    - name: Timo Wagner
-      url: https://orcid.org/0000-0002-6853-0572
-    - name: Christian Marcks
-      url: https://orcid.org/0000-0003-3618-4246
-    - name: Jacob Johny
-      url: https://orcid.org/0000-0002-5941-6348
-    - name: Garlef Wartner
-      url: https://www.researchgate.net/profile/Garlef-Wartner
-    - name: Dr. Marc Frederic Tesch
-      url: https://orcid.org/0000-0001-7480-7200
-    - name: Dr. Ioannis Spanos
-      url: https://orcid.org/0000-0001-5737-4992
-    - name: Aliakbar Ghafari
-      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
-    - name: Adarsh Jain
-      url: https://orcid.org/0009-0001-6199-8340
-    - name: Oleg Prymak
-      url: https://orcid.org/0000-0002-9494-8411
-    - name: Dr. Ignacio Sanjuán Moltó
-      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
-    - name: Ahammed Suhail Odungat
-      url: https://orcid.org/0009-0004-5838-346X
-    - name: Osama Anwar
-      url: https://www.researchgate.net/profile/Osama-Anwar-5
-    - name: Mohit Chatwani
-      url: https://orcid.org/0009-0007-3471-6049
-    - name: Aneeta Jose
-      url: https://orcid.org/0009-0001-0477-9723
-    - name: Vimanshu Chanda
-      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
-    - name: Axel Knop-Gericke
-      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
-    - name: Corina Andronescu
-      url: https://orcid.org/0000-0002-1227-1209
-    - name: Prof. Dr. Anna K. Mechler
-      url: https://orcid.org/0000-0002-0491-514X
-    - name: Dr. Nicolas Wöhrl
-      url: https://www.researchgate.net/profile/Nicolas-Woehrl
-    - name: Prof. Dr. Doris Segets
-      url: https://orcid.org/0000-0003-3102-2934
-  paper:
-    summary: "Ein systematischer Arbeitsablauf von der Tintenformulierung bis zu plasmabehandelten Ni-Co-O-Sprühbeschichtungen ergibt bindemittelfreie Anoden mit verbesserter Porosität, Benetzbarkeit und einem um 43 mV geringeren Überpotenzial bei 100 mA cm⁻² in der alkalischen OER."
-    url: https://doi.org/10.31224/4205
-  categories: ["reviewed"]
-  tags: ["Alkalische Wasserelektrolyse", "Plasmabearbeitung", "Sprühbeschichtung", "Bindemittelfreie Anoden", "Ni-Co-O"]
 
 - title: "Polyacrylic Acid Functionalized Superparamagnetic Iron-Oxide Supraparticles for Highly Efficient Adsorption and Removal of Contaminants from Water"
   publishedIn:
@@ -331,45 +317,6 @@ publications:
     url: https://doi.org/10.1016/j.jwpe.2024.106025
   categories: ["reviewed"]
   tags: ["Wasserreinigung", "Adsorption", "Magnetische Nanopartikel", "Polyacrylsäure"]
-
-- title: "The Impact of Ink Processing on Key Characteristics of Platinum Detachment and Pore Structure to Optimize Fuel Cell Performance"
-  publishedIn:
-    name: "International Journal of Hydrogen Energy (Elsevier)"
-    date: "19. Juni 2025"
-  authors:
-    - name: Amin Said Amin
-      url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
-    - name: Ricardo Martínez-Hincapié
-      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
-    - name: Ali Raza Khan
-      url: https://www.researchgate.net/profile/Ali-Khan-11
-    - name: Dr. André Olean-Oliveira
-      url: https://orcid.org/0000-0002-1716-1420
-    - name: Ahammed Suhail Odungat
-      url: https://orcid.org/0009-0004-5838-346X
-    - name: Annika Gurowski
-      url: https://www.researchgate.net/scientific-contributions/Annika-Gurowski-2312891561
-    - name: Adarsh Jain
-      url: https://orcid.org/0009-0001-6199-8340
-    - name: Lars Grebener
-      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
-    - name: Dr. Azita Rezvani
-      url: https://www.researchgate.net/profile/Azita-Rezvani
-    - name: Mohaned Hammad
-      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
-    - name: Thomas Lange
-      url: https://www.researchgate.net/scientific-contributions/Thomas-Lange-2258102916
-    - name: Dr. Fatih Özcan
-      url: https://www.researchgate.net/profile/Fatih-Oezcan-9
-    - name: Dr. Viktor Čolić
-      url: https://orcid.org/0000-0003-1118-5592
-    - name: Prof. Dr. Doris Segets
-      url: https://orcid.org/0000-0003-3102-2934
-  paper:
-    summary: "Vergleicht Rühren, Ultraschallbehandlung und Nassmahlen von Pt/C-Tinten; verbindet Partikelgröße, Pt-Ablösung und Porenarchitektur mit der PEMFC-Effizienz und hebt optimale Verarbeitungskompromisse hervor."
-    url: https://doi.org/10.1016/j.ijhydene.2025.04.450
-  categories: ["reviewed"]
-  tags: ["PEMFC", "Katalysatortinten-Verarbeitung", "Platin-Ablösung", "Porenstruktur", "Brennstoffzellenleistung"]
 
 - title: "Understanding the Mechanism of Evaporation-Induced Islands during the Formation of Catalyst Layers and Their Influence on the Alkaline Oxygen Evolution Reaction"
   publishedIn:

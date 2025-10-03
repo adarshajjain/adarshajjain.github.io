@@ -212,123 +212,7 @@ publications:
     url: https://doi.org/10.1016/j.cej.2025.167169
   categories: ["reviewed"]
   tags: ["Oxygen Evolution Reaction", "Plasma Treatment", "Ni-Co-O"]
-
-- title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
-  publishedIn:
-    name: "ACS Catalysis (ACS)"
-    date: "15 November 2024"
-  authors:
-    - name: Dr. André Olean-Oliveira
-      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
-    - name: Najeeb Hasnain
-      url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
-    - name: Ricardo Martínez-Hincapié
-      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
-    - name: Ulrich Hagemann
-      url: https://orcid.org/0000-0002-1880-6550
-    - name: Adarsh Jain
-      url: https://orcid.org/0009-0001-6199-8340
-    - name: Prof. Dr. Doris Segets
-      url: https://orcid.org/0000-0003-3102-2934
-    - name: Dr. Ioannis Spanos
-      url: https://orcid.org/0000-0001-5737-4992
-    - name: Dr. Viktor Čolić
-      url: https://orcid.org/0000-0003-1118-5592
-  paper:
-    summary: "Defects, oxygen groups, and alkali-metal cations modulate two-electron ORR on graphite and glassy carbon, uncovering mechanisms that optimise selective, metal-free H₂O₂ electrosynthesis."
-    url: https://doi.org/10.1021/acscatal.4c04734
-  categories: ["reviewed"]
-  tags: ["Hydrogen Peroxide", "Oxygen Reduction Reaction", "Carbon Electrodes", "Surface Chemistry"]
-- title: "Holistic Evaluation of Ni-Co-O Anodes: Integrated Workflow from Ink Formulation to Plasma Post-Processing for Alkaline Water Electrolysis"
-  publishedIn:
-    name: "ChemRxiv"
-    date: "09 December 2024"
-  authors:
-    - name: Dr. Vineetha Vinayakumar
-      url: https://orcid.org/0000-0002-6707-8051
-    - name: Timo Wagner
-      url: https://orcid.org/0000-0002-6853-0572
-    - name: Christian Marcks
-      url: https://orcid.org/0000-0003-3618-4246
-    - name: Jacob Johny
-      url: https://orcid.org/0000-0002-5941-6348
-    - name: Garlef Wartner
-      url: https://www.researchgate.net/profile/Garlef-Wartner
-    - name: Dr. Marc Frederic Tesch
-      url: https://orcid.org/0000-0001-7480-7200
-    - name: Dr. Ioannis Spanos
-      url: https://orcid.org/0000-0001-5737-4992
-    - name: Aliakbar Ghafari
-      url: https://www.researchgate.net/profile/Aliakbar-Ghafari
-    - name: Adarsh Jain
-      url: https://orcid.org/0009-0001-6199-8340
-    - name: Oleg Prymak
-      url: https://orcid.org/0000-0002-9494-8411
-    - name: Dr. Ignacio Sanjuán Moltó
-      url: https://www.researchgate.net/profile/Ignacio-Sanjuan-Molto
-    - name: Ahammed Suhail Odungat
-      url: https://orcid.org/0009-0004-5838-346X
-    - name: Osama Anwar
-      url: https://www.researchgate.net/profile/Osama-Anwar-5
-    - name: Mohit Chatwani
-      url: https://orcid.org/0009-0007-3471-6049
-    - name: Aneeta Jose
-      url: https://orcid.org/0009-0001-0477-9723
-    - name: Vimanshu Chanda
-      url: https://www.researchgate.net/profile/Vimanshu-Chanda-2
-    - name: Axel Knop-Gericke
-      url: https://www.researchgate.net/scientific-contributions/Axel-Knop-Gericke-38529208
-    - name: Corina Andronescu
-      url: https://orcid.org/0000-0002-1227-1209
-    - name: Prof. Dr. Anna K. Mechler
-      url: https://orcid.org/0000-0002-0491-514X
-    - name: Dr. Nicolas Wöhrl
-      url: https://www.researchgate.net/profile/Nicolas-Woehrl
-    - name: Prof. Dr. Doris Segets
-      url: https://orcid.org/0000-0003-3102-2934
-  paper:
-    summary: "Systematic workflow from ink formulation to plasma-treated Ni-Co-O spray coatings yields binder-free anodes with enhanced porosity, wettability and 43 mV lower overpotential at 100 mA cm⁻² in alkaline OER."
-    url: https://doi.org/10.31224/4205
-  categories: ["reviewed"]
-  tags: ["Alkaline Water Electrolysis", "Plasma Processing", "Spray Coating", "Binder-Free Anodes", "Ni-Co-O"]
-- title: "Polyacrylic Acid Functionalized Superparamagnetic Iron-Oxide Supraparticles for Highly Efficient Adsorption and Removal of Contaminants from Water"
-  publishedIn:
-    name: "Journal of Water Process Engineering (Elsevier)"
-    date: "02 September 2024"
-  authors:
-    - name: Mohaned Hammad
-      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
-    - name: Adil Amin
-      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
-    - name: Dr. Anam Asghar
-      url: https://www.researchgate.net/profile/Anam-Asghar-4
-    - name: Osama Anwar
-      url: https://www.researchgate.net/profile/Osama-Anwar-5
-    - name: Dr. Soma Salamon
-      url: https://www.researchgate.net/profile/Soma-Salamon
-    - name: Dr. Joachim Landers
-      url: https://www.researchgate.net/profile/Joachim-Landers-2
-    - name: Mena-Alexander Kräenbring
-      url: https://orcid.org/0000-0003-3314-9680
-    - name: Adarsh Jain
-      url: https://orcid.org/0009-0001-6199-8340
-    - name: Sebastian Hardt
-      url: https://www.researchgate.net/profile/Sebastian-Hardt-3
-    - name: Hartmut Wiggers
-      url: https://www.researchgate.net/profile/Hartmut-Wiggers
-    - name: Dr. Torsten C. Schmidt
-      url: https://www.researchgate.net/profile/Torsten-Schmidt-6
-    - name: Dr. Heiko Wende
-      url: https://www.researchgate.net/profile/Heiko-Wende
-    - name: Prof. Dr. Christof Schulz
-      url: https://www.researchgate.net/profile/Christof-Schulz-2
-    - name: Prof. Dr. Doris Segets
-      url: https://orcid.org/0000-0003-3102-2934
-  paper:
-    summary: "Magnetic PAA-coated iron-oxide supraparticles adsorb metals and dyes with up to 670 mg g⁻¹ capacity and recover magnetically in 20 s, enabling rapid, low-cost water purification."
-    url: https://doi.org/10.1016/j.jwpe.2024.106025
-  categories: ["reviewed"]
-  tags: ["Water Purification", "Adsorption", "Magnetic Nanoparticles", "Polyacrylic Acid"]
+  
 - title: "The Impact of Ink Processing on Key Characteristics of Platinum Detachment and Pore Structure to Optimize Fuel Cell Performance"
   publishedIn:
     name: "International Journal of Hydrogen Energy (Elsevier)"
@@ -367,6 +251,74 @@ publications:
     url: https://doi.org/10.1016/j.ijhydene.2025.04.450
   categories: ["reviewed"]
   tags: ["PEMFC", "Catalyst Ink Processing", "Platinum Detachment", "Pore Structure", "Fuel Cell Performance"]
+
+- title: "Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte"
+  publishedIn:
+    name: "ACS Catalysis (ACS)"
+    date: "15 November 2024"
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
+    - name: Najeeb Hasnain
+      url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
+    - name: Ricardo Martínez-Hincapié
+      url: https://www.researchgate.net/profile/Ricardo-Martinez-Hincapie
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "Defects, oxygen groups, and alkali-metal cations modulate two-electron ORR on graphite and glassy carbon, uncovering mechanisms that optimise selective, metal-free H₂O₂ electrosynthesis."
+    url: https://doi.org/10.1021/acscatal.4c04734
+  categories: ["reviewed"]
+  tags: ["Hydrogen Peroxide", "Oxygen Reduction Reaction", "Carbon Electrodes", "Surface Chemistry"]
+
+- title: "Polyacrylic Acid Functionalized Superparamagnetic Iron-Oxide Supraparticles for Highly Efficient Adsorption and Removal of Contaminants from Water"
+  publishedIn:
+    name: "Journal of Water Process Engineering (Elsevier)"
+    date: "02 September 2024"
+  authors:
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Adil Amin
+      url: https://www.researchgate.net/scientific-contributions/Adil-Amin-2206849506
+    - name: Dr. Anam Asghar
+      url: https://www.researchgate.net/profile/Anam-Asghar-4
+    - name: Osama Anwar
+      url: https://www.researchgate.net/profile/Osama-Anwar-5
+    - name: Dr. Soma Salamon
+      url: https://www.researchgate.net/profile/Soma-Salamon
+    - name: Dr. Joachim Landers
+      url: https://www.researchgate.net/profile/Joachim-Landers-2
+    - name: Mena-Alexander Kräenbring
+      url: https://orcid.org/0000-0003-3314-9680
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Sebastian Hardt
+      url: https://www.researchgate.net/profile/Sebastian-Hardt-3
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Dr. Torsten C. Schmidt
+      url: https://www.researchgate.net/profile/Torsten-Schmidt-6
+    - name: Dr. Heiko Wende
+      url: https://www.researchgate.net/profile/Heiko-Wende
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Magnetic PAA-coated iron-oxide supraparticles adsorb metals and dyes with up to 670 mg g⁻¹ capacity and recover magnetically in 20 s, enabling rapid, low-cost water purification."
+    url: https://doi.org/10.1016/j.jwpe.2024.106025
+  categories: ["reviewed"]
+  tags: ["Water Purification", "Adsorption", "Magnetic Nanoparticles", "Polyacrylic Acid"]
+
+
 - title: "Understanding the Mechanism of Evaporation-Induced Islands during the Formation of Catalyst Layers and Their Influence on the Alkaline Oxygen Evolution Reaction"
   publishedIn:
     name: "ECS Meeting Abstracts (ECS)"
