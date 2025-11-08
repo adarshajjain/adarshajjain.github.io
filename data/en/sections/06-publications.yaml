@@ -18,6 +18,45 @@ buttons:
     filter: "abstract"
 
 publications:
+- title: "Wetting across the Lyophilic–Lyophobic Spectrum: Morphological Tuning of Anode Catalyst Layers for the Alkaline Oxygen Evolution Reaction"
+  publishedIn:
+    name: "ACS Applied Materials & Interfaces"
+    date: "03 November 2025"
+  authors:
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Christian Marcks
+      url: https://orcid.org/0000-0003-3618-4246
+    - name: Gereon Mahler
+      url: https://orcid.org/0009-0004-7699-1784
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Jacob Johny
+      url: https://orcid.org/0000-0002-5941-6348
+    - name: Mohit Chatwani
+      url: https://orcid.org/0009-0007-3471-6049
+    - name: Abhishek Shaji
+      url: https://www.researchgate.net/scientific-contributions/Abhishek-Shaji-2296794198
+    - name: Tobias Melchert
+      url: https://www.linkedin.com/in/tobias-melchert-119403336/?originalSubdomain=de
+    - name: Dr. Marc Frederic Tesch
+      url: https://orcid.org/0000-0001-7480-7200
+    - name: Prof. Dr. Malte Behrens
+      url: https://orcid.org/0000-0003-3407-5011
+    - name: Prof. Dr. Anna K. Mechler
+      url: https://orcid.org/0000-0002-0491-514X
+    - name: Dr. Vineetha Vinayakumar
+      url: https://orcid.org/0000-0002-6707-8051
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Study investigates the influence of superlyophilicity and superlyophobicity of spray-coated nickel iron layered double hydroxide (Ni–Fe-LDH) anodes on the electrochemical performance for the oxygen evolution reaction."
+    url: https://doi.org/10.1021/acsami.5c15573
+  categories: ["reviewed"]
+  tags: ["Electrocatalysis", "Oxygen Evolution Reaction", "Microstructure", "Wettability"]
+
 - title: "A Proof-of-Principle Demonstration: Exploring the Effect of Anode Layer Microstructure on the Alkaline Oxygen Evolution Reaction"
   publishedIn:
     name: "Advanced Functional Materials (Wiley)"
