@@ -94,7 +94,7 @@ publications:
     date: "15 ಜನವರಿ 2024"
   authors:
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
     - name: Dr. André Olean-Oliveira
@@ -115,6 +115,94 @@ publications:
   categories: ["reviewed"]
   tags: ["ಆಮ್ಲಜನಕ ವಿಕಸನ ಪ್ರತಿಕ್ರಿಯೆ", "ವೇಗವರ್ಧನೆ", "ವಸ್ತು ವಿಜ್ಞಾನ"]
 
+- title: "Intrinsic activity and mechanistic insights in LaCoO₃ OER catalysts induced by support material"
+  publishedIn:
+    name: "Electrochimica Acta"
+    date: "10 ಫೆಬ್ರವರಿ 2026"
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0001-5737-4992
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "ಈ ಅಧ್ಯಯನವು LaCoO3 ಪೆರೋವ್‌ಸ್ಕೈಟ್‌ಗಳ ಆಂತರಿಕ OER ಚಟುವಟಿಕೆಯ ಮೇಲೆ ಆಧಾರಿತ ವಸ್ತುವಿನ (Ni, Ir, Pt, GC) ನಿರ್ಣಾಯಕ ಪ್ರಭಾವವನ್ನು ತನಿಖೆ ಮಾಡುತ್ತದೆ. ಇನ್-ಸಿಟು ಸ್ಪೆಕ್ಟ್ರೋಸ್ಕೋಪಿ (FTIR, Raman) ಮತ್ತು ಎಲೆಕ್ಟ್ರೋಕೆಮಿಕಲ್ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಬಳಸಿಕೊಂಡು, ವೇಗವರ್ಧಕ-ಆಧಾರಿತ ಪರಸ್ಪರ ಕ್ರಿಯೆಗಳು ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯೆ ಕಾರ್ಯವಿಧಾನಗಳು ಮತ್ತು ಆಕ್ಸಿಡೀಕರಣ ಸ್ಥಿತಿಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಇದು ತೋರಿಸುತ್ತದೆ, ಇದು ಉನ್ನತ-ಕಾರ್ಯಕ್ಷಮತೆಯ ಎಲೆಕ್ಟ್ರೋಕ್ಯಾಟಲಿಸ್ಟ್‌ಗಳ ತರ್ಕಬದ್ಧ ವಿನ್ಯಾಸಕ್ಕಾಗಿ ಹೊಸ ತಂತ್ರಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
+    url: https://doi.org/10.1016/j.electacta.2025.147874
+  categories: ["reviewed"]
+  tags: ["ಆಮ್ಲಜನಕ ವಿಕಸನ ಪ್ರತಿಕ್ರಿಯೆ", "LaCoO3 ಪೆರೋವ್‌ಸ್ಕೈಟ್", "ವೇಗವರ್ಧಕ-ಆಧಾರಿತ ಪರಸ್ಪರ ಕ್ರಿಯೆ", "ಲ್ಯಾಟಿಸ್ ಆಮ್ಲಜನಕ ಯಾಂತ್ರಿಕತೆ"]
+
+- title: "From half-cells to full-cells: across-scale comparative evaluation of lanthanum-based perovskites as high-performance anode materials for the oxygen evolution reaction"
+  publishedIn:
+    name: "Chemical Engineering Journal"
+    date: "31 ಜನವರಿ 2026"
+  authors:
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Khuzaifa Yahuza Muhammad
+      url: https://orcid.org/0000-0002-0792-8421
+    - name: Wang Feng
+      url: https://www.linkedin.com/in/feng-wang-45985540/
+    - name: Raíssa Ribeiro Lima Machado
+      url: https://orcid.org/0000-0003-0368-8181
+    - name: Dr. Da Xing
+      url: https://www.linkedin.com/in/da-xing-08838010a/
+    - name: Mohammed-Ali Sheikh
+      url: https://orcid.org/0009-0005-3972-5097
+    - name: Leander Kucklick
+      url: https://www.uni-due.de/energietechnik/de/team_lkk.php
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Philipp Gerschel
+      url: https://www.researchgate.net/profile/Philipp-Gerschel
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Harry Hoster
+      url: https://www.uni-due.de/energietechnik/de/hoster.php
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Ulf-Peter Apfel
+      url: https://orcid.org/0000-0002-1577-2420
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "ಸ್ಪ್ರೇ-ಫ್ಲೇಮ್ ಸಿಂಥೆಸೈಸ್ಡ್ ಪೆರೋವ್‌ಸ್ಕೈಟ್‌ಗಳ (LaMnO3, LaFeO3, LaCoO3) ತುಲನಾತ್ಮಕ ಅಧ್ಯಯನವು ಕೈಗಾರಿಕಾ-ಸಂಬಂಧಿತ ಪ್ರಸ್ತುತ ಸಾಂದ್ರತೆಗಳಲ್ಲಿ (1000 mA/cm² ವರೆಗೆ) ಹಾಫ್-ಸೆಲ್‌ಗಳಿಂದ ಶೂನ್ಯ-ಅಂತರದ ಫುಲ್-ಸೆಲ್‌ಗಳವರೆಗೆ OER ಚಟುವಟಿಕೆಯ ಸ್ಥಿರವಾದ ಸ್ಕೇಲಿಂಗ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ. ಈ ಅಧ್ಯಯನವು LaFeO3 ನ ಉನ್ನತ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ನೈಜ ಕಾರ್ಯಾಚರಣೆಯ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಯಾಂತ್ರಿಕ ರಚನಾತ್ಮಕ ಬದಲಾವಣೆಗಳನ್ನು ಗುರುತಿಸುತ್ತದೆ."
+    url: https://doi.org/10.1016/j.cej.2026.173316
+  categories: ["reviewed"]
+  tags: ["ಆಮ್ಲಜನಕ ವಿಕಸನ ಪ್ರತಿಕ್ರಿಯೆ", "ಲ್ಯಾಂತನಮ್ ಪೆರೋವ್‌ಸ್ಕೈಟ್‌ಗಳು", "ಶೂನ್ಯ-ಅಂತರದ ಎಲೆಕ್ಟ್ರೋಲೈಸರ್", "ಸ್ಕೇಲಿಂಗ್", "ವೇಗವರ್ಧಕ ಸ್ಥಿರತೆ"]
+
 - title: "Supraparticle Assembly of La₀.₈Sr₀.₂CoO₃ Nanoparticles for Enhanced Lattice Oxygen Oxidation in Alkaline Electrolysis"
   publishedIn:
     name: "ACS Applied Materials & Interfaces"
@@ -133,7 +221,7 @@ publications:
     - name: Mohammed-Ali Sheikh
       url: https://orcid.org/0009-0005-3972-5097
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Amin Said Amin
       url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
     - name: Ralf Meckenstock

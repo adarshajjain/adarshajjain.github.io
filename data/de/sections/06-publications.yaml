@@ -98,7 +98,7 @@ publications:
     date: "15. Januar 2024"
   authors:
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
     - name: Dr. André Olean-Oliveira
@@ -119,6 +119,94 @@ publications:
   categories: ["reviewed"]
   tags: ["Sauerstoffentwicklungsreaktion", "Katalyse", "Materialwissenschaft"]
 
+- title: "Intrinsic activity and mechanistic insights in LaCoO₃ OER catalysts induced by support material"
+  publishedIn:
+    name: "Electrochimica Acta"
+    date: "10. Februar 2026"
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0000-0001-5737-4992
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "Studie, die den entscheidenden Einfluss des Trägermaterials (Ni, Ir, Pt, GC) auf die intrinsische OER-Aktivität von LaCoO3-Perovskiten untersucht und mittels In-situ-Spektroskopie (FTIR, Raman) sowie elektrochemischer Analyse zeigt, wie Support-Katalysator-Wechselwirkungen den Reaktionsmechanismus und die Oxidationszustände verändern, was neue Strategien für das rationale Design hocheffizienter Elektrokatalysatoren eröffnet."
+    url: https://doi.org/10.1016/j.electacta.2025.147874
+  categories: ["reviewed"]
+  tags: ["Sauerstoffentwicklungsreaktion", "LaCoO3-Perowskit", "Träger-Katalysator-Wechselwirkung", "Lattice Oxygen Mechanism"]
+
+- title: "From half-cells to full-cells: across-scale comparative evaluation of lanthanum-based perovskites as high-performance anode materials for the oxygen evolution reaction"
+  publishedIn:
+    name: "Chemical Engineering Journal"
+    date: "31. Januar 2026"
+  authors:
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Khuzaifa Yahuza Muhammad
+      url: https://orcid.org/0000-0002-0792-8421
+    - name: Wang Feng
+      url: https://www.linkedin.com/in/feng-wang-45985540/
+    - name: Raíssa Ribeiro Lima Machado
+      url: https://orcid.org/0000-0003-0368-8181
+    - name: Dr. Da Xing
+      url: https://www.linkedin.com/in/da-xing-08838010a/
+    - name: Mohammed-Ali Sheikh
+      url: https://orcid.org/0009-0005-3972-5097
+    - name: Leander Kucklick
+      url: https://www.uni-due.de/energietechnik/de/team_lkk.php
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Philipp Gerschel
+      url: https://www.researchgate.net/profile/Philipp-Gerschel
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Harry Hoster
+      url: https://www.uni-due.de/energietechnik/de/hoster.php
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Ulf-Peter Apfel
+      url: https://orcid.org/0000-0002-1577-2420
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Vergleichende Studie über sprühflammensynthetisierte Perowskite (LaMnO3, LaFeO3, LaCoO3), die eine konsistente Skalierung der OER-Aktivität von der Halbzelle bis zur Zero-Gap-Vollzelle bei industrierelevanten Stromdichten (bis 1000 mA/cm²) aufzeigt und dabei die überlegene Performance von LaFeO3 sowie mechanistische Strukturveränderungen unter realen Betriebsbedingungen identifiziert."
+    url: https://doi.org/10.1016/j.cej.2026.173316
+  categories: ["reviewed"]
+  tags: ["Sauerstoffentwicklungsreaktion", "Lanthan-Perowskite", "Zero-Gap-Elektrolyseur", "Skalierung", "Katalysatorstabilität"]
+
 - title: "Supraparticle Assembly of La₀.₈Sr₀.₂CoO₃ Nanoparticles for Enhanced Lattice Oxygen Oxidation in Alkaline Electrolysis"
   publishedIn:
     name: "ACS Applied Materials & Interfaces"
@@ -137,7 +225,7 @@ publications:
     - name: Mohammed-Ali Sheikh
       url: https://orcid.org/0009-0005-3972-5097
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Amin Said Amin
       url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
     - name: Ralf Meckenstock
@@ -297,7 +385,7 @@ publications:
     date: "15. November 2024"
   authors:
     - name: Dr. André Olean-Oliveira
-      url: https://www.researchgate.net/scientific-contributions/Andre-Olean-Oliveira-2142908546
+      url: https://orcid.org/0000-0002-1716-1420
     - name: Najeeb Hasnain
       url: https://www.researchgate.net/scientific-contributions/Najeeb-Hasnain-2297642592
     - name: Ricardo Martínez-Hincapié

@@ -98,7 +98,7 @@ publications:
     date: "15 January 2024"
   authors:
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Dr. Vineetha Vinayakumar
       url: https://orcid.org/0000-0002-6707-8051
     - name: Dr. André Olean-Oliveira
@@ -119,6 +119,94 @@ publications:
   categories: ["reviewed"]
   tags: ["Oxygen Evolution Reaction", "Catalysis", "Materials Science"]
 
+- title: "Intrinsic activity and mechanistic insights in LaCoO₃ OER catalysts induced by support material"
+  publishedIn:
+    name: "Electrochimica Acta"
+    date: "10 February 2026"
+  authors:
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Dr. Ioannis Spanos
+      url: https://orcid.org/0001-5737-4992
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Ulrich Hagemann
+      url: https://orcid.org/0000-0002-1880-6550
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+  paper:
+    summary: "Study investigating the decisive influence of the support material (Ni, Ir, Pt, GC) on the intrinsic OER activity of LaCoO3 perovskites, using in situ spectroscopy (FTIR, Raman) and electrochemical analysis to show how catalyst-support interactions alter reaction mechanisms and oxidation states, enabling new strategies for the rational design of high-performance electrocatalysts."
+    url: https://doi.org/10.1016/j.electacta.2025.147874
+  categories: ["reviewed"]
+  tags: ["Oxygen Evolution Reaction", "LaCoO3 Perovskite", "Catalyst-Support Interaction", "Lattice Oxygen Mechanism"]
+
+- title: "From half-cells to full-cells: across-scale comparative evaluation of lanthanum-based perovskites as high-performance anode materials for the oxygen evolution reaction"
+  publishedIn:
+    name: "Chemical Engineering Journal"
+    date: "31 January 2026"
+  authors:
+    - name: Blaž Toplak
+      url: https://orcid.org/0009-0000-6030-3642
+    - name: Leon Müller
+      url: https://orcid.org/0000-0001-5747-8943
+    - name: Ali Raza Khan
+      url: https://www.researchgate.net/profile/Ali-Khan-11
+    - name: Dr. André Olean-Oliveira
+      url: https://orcid.org/0000-0002-1716-1420
+    - name: Khuzaifa Yahuza Muhammad
+      url: https://orcid.org/0000-0002-0792-8421
+    - name: Wang Feng
+      url: https://www.linkedin.com/in/feng-wang-45985540/
+    - name: Raíssa Ribeiro Lima Machado
+      url: https://orcid.org/0000-0003-0368-8181
+    - name: Dr. Da Xing
+      url: https://www.linkedin.com/in/da-xing-08838010a/
+    - name: Mohammed-Ali Sheikh
+      url: https://orcid.org/0009-0005-3972-5097
+    - name: Leander Kucklick
+      url: https://www.uni-due.de/energietechnik/de/team_lkk.php
+    - name: Ahammed Suhail Odungat
+      url: https://orcid.org/0009-0004-5838-346X
+    - name: Adarsh Jain
+      url: https://orcid.org/0009-0001-6199-8340
+    - name: Lars Grebener
+      url: https://www.researchgate.net/scientific-contributions/Lars-Grebener-2296803441
+    - name: Dr. Philipp Gerschel
+      url: https://www.researchgate.net/profile/Philipp-Gerschel
+    - name: Prof. Dr. Corina Andronescu
+      url: https://orcid.org/0000-0002-1227-1209
+    - name: Prof. Dr. Harry Hoster
+      url: https://www.uni-due.de/energietechnik/de/hoster.php
+    - name: Prof. Dr. Christof Schulz
+      url: https://www.researchgate.net/profile/Christof-Schulz-2
+    - name: Dr. Viktor Čolić
+      url: https://orcid.org/0000-0003-1118-5592
+    - name: Prof. Dr. Ulf-Peter Apfel
+      url: https://orcid.org/0000-0002-1577-2420
+    - name: Hartmut Wiggers
+      url: https://www.researchgate.net/profile/Hartmut-Wiggers
+    - name: Mohaned Hammad
+      url: https://www.researchgate.net/scientific-contributions/Mohaned-Hammad-2169127513
+    - name: Prof. Dr. Doris Segets
+      url: https://orcid.org/0000-0003-3102-2934
+  paper:
+    summary: "Comparative study of spray-flame synthesized perovskites (LaMnO3, LaFeO3, LaCoO3) demonstrating consistent scaling of OER activity from half-cells to zero-gap full-cells at industry-relevant current densities (up to 1000 mA/cm²), identifying the superior performance of LaFeO3 and mechanistic structural changes under real operating conditions."
+    url: https://doi.org/10.1016/j.cej.2026.173316
+  categories: ["reviewed"]
+  tags: ["Oxygen Evolution Reaction", "Lanthanum Perovskites", "Zero-Gap Electrolyzer", "Scaling", "Catalyst Stability"]
+
 - title: "Supraparticle Assembly of La₀.₈Sr₀.₂CoO₃ Nanoparticles for Enhanced Lattice Oxygen Oxidation in Alkaline Electrolysis"
   publishedIn:
     name: "ACS Applied Materials & Interfaces"
@@ -137,7 +225,7 @@ publications:
     - name: Mohammed-Ali Sheikh
       url: https://orcid.org/0009-0005-3972-5097
     - name: Adarsh Jain
-      url: https://www.researchgate.net/profile/Adarsh-Jain-18
+      url: https://orcid.org/0009-0001-6199-8340
     - name: Amin Said Amin
       url: https://www.researchgate.net/scientific-contributions/Amin-Said-Amin-2233835127
     - name: Ralf Meckenstock

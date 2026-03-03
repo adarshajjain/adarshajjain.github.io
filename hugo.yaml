@@ -56,10 +56,6 @@ enableRobotsTXT: false
 
 # Site parameters
 params:
-  # GitHub repo URL
-  gitRepo: https://github.com/adarshajjain/adarshajjain.github.io
-  gitBranch: master
-
   # Background image
   background: images/background/background.jpg
 
@@ -74,7 +70,7 @@ params:
     darkMode:
       enable: true
     toc:
-      enable: true
+      enable: false
     tags:
       enable: true
       on_card: true
@@ -88,12 +84,12 @@ params:
     blog:
       enable: false
       shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        email: true
-        mastodon: true
-        tumblr: true
+        facebook: false
+        twitter: false
+        linkedin: false
+        email: false
+        mastodon: false
+        tumblr: false
     notes:
       enable: false
     comment:
