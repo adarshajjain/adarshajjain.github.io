@@ -1,5 +1,5 @@
 # Copyright
-copyright: © आदर्श जैन, 2025
+copyright: © आदर्श जैन, 2026
 
 # Disclaimer
 # disclaimer: REPLACE ME.
@@ -8,6 +8,9 @@ copyright: © आदर्श जैन, 2025
 description: आदर्श जैन का ब्लॉग, बिजनेस कार्ड और व्यक्तिगत वेबसाइट।
 # Menus
 customMenus:
+- name: Thesis
+  url: /thesis
+  showOnFooter: true
 - name: LinkedIn
   url: https://www.linkedin.com/in/adarshjainaj/
 #   # specify whether to hide the menu item from top navbar or not.

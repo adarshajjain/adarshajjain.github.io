@@ -100,6 +100,8 @@ params:
       enable: false
     analytics:
       enable: false
+    embedpdf:
+      enable: true
 
   # Footer
   footer:

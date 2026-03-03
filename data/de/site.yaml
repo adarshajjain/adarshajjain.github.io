@@ -1,7 +1,10 @@
-copyright: © Adarsh Jain, 2025
+copyright: © Adarsh Jain, 2026
 description: Blog, Visitenkarte und persönliche Webseite von Adarsh Jain.
 
 customMenus:
+- name: Thesis
+  url: /thesis
+  showOnFooter: true
 - name: LinkedIn
   url: https://www.linkedin.com/in/adarshjainaj/
   showOnFooter: true
