@@ -95,7 +95,10 @@ params:
     comment:
       enable: false
     analytics:
-      enable: false
+      enable: true
+      services:
+        goatCounter:
+          code: adarshjain
     embedpdf:
       enable: true
 
