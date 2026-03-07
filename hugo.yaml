@@ -98,7 +98,7 @@ params:
       enable: true
       services:
         goatCounter:
-          code: adarshjain
+          code: adarshajjain
     embedpdf:
       enable: true
 
