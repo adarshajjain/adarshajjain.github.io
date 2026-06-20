@@ -20,17 +20,17 @@ languageCode: en
 defaultContentLanguage: en
 languages:
   en:
-    languageName: English
+    label: English
     weight: 1
   de:
-    languageName: Deutsch
+    label: Deutsch
     weight: 2
   kn:
-    languageCode: kn
-    languageName: ಕನ್ನಡ
+    locale: kn
+    label: ಕನ್ನಡ
     weight: 3
   hi:
-    languageName: हिन्दी
+    label: हिन्दी
     weight: 4
 
 # Raw HTML in Markdown
